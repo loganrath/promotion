@@ -6,6 +6,11 @@ EFFECTIVE PERFORMANCE IN LIBRARIANSHIP
 --------------------------------------
 
 ### I. Successful performance of assigned duties with considerable independence, initiative and productivity, contributions to collection building and instructional effectiveness
+* Delivered over 1,000 individual projects of instruction.
+	1. I did this.
+	2. You did that.
+	3. They did the other thing.
+
 ### II. Supervisory and administrative ability
 ### III. Creativity in planning and problem solving and ability to handle successfully tasks of increasing responsibility and complexity
 ### IV. Professional Development Activities Related to Librarianship
