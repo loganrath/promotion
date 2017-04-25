@@ -2,10 +2,10 @@
 
 body {
   margin:0px; background-color:#515151; 
-  font-family: Garamond, Georgia, "Times New Roman", Times, serif; font-size:12pt;
+  font-family: Garamond, Georgia, "Times New Roman", Times, serif; font-size:16pt;
 }
 
-div#content {margin-left: auto; margin-right: auto; background-color: white; width: 960px;}
+div#content {margin-left: auto; margin-right: auto; background-color: white; width: 80%;}
 
 div#header {background-color: #006024; color: white; padding-top: 1em;}
 
