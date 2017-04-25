@@ -16,7 +16,7 @@ SCHOLARSHIP, RESEARCH AND CREATIVE ACCOMPLISHMENTS
 
 ### I. Peer-reviewed and adjudicated scholarly and creative products
 ### II. Externally-funded projects or grants
-### III. Presentations</h3>
+### III. Presentations
 ### IV. Non peer-reviewed or adjudicated scholarly and creative products.
 ### V. Work in Progress
 ### VI. Internal Grants, Publications and Presentations
@@ -26,7 +26,7 @@ SCHOLARSHIP, RESEARCH AND CREATIVE ACCOMPLISHMENTS
 
 COLLEGE, COMMUNITY, AND PROFESSIONAL SERVICE
 --------------------------------------------
-### I. Departmental service (other than advising)</h3>
+### I. Departmental service (other than advising)
 ### II. College service
 ### III. Public and community service (must be related to area of professional expertise)
 ### IV. Service to the discipline or profession (work in professional organizations. etc.)
