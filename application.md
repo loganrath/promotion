@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: Application Promotion to Librarian
+title: Application for Promotion to Librarian
 ---
 EFFECTIVE PERFORMANCE IN LIBRARIANSHIP
 --------------------------------------
