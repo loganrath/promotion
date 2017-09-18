@@ -167,6 +167,9 @@ OpenSUNY Information Literacy Portal, (IITG, $20,000)
 <p>Toth, G. M. (Presenter &amp; Author), Kegler, J. L. (Presenter &amp; Author), <strong>Rath, L. T.</strong> (Presenter &amp; Author), Center for Excellence in Learning and Teaching (CELT) Brown Bag Discussion, ""Google for Faculty"," CELT, College at Brockport, Brockport, NY. (February 15, 2013).</p>
 
 ### IV. Non peer-reviewed or adjudicated scholarly and creative products.
+* [Research Guides](http://library.brockport.edu/prf.php?account_id=456)
+* See [Supporting Documents](documentation)
+
 ### V. Work in Progress
 ### VI. Internal Grants, Publications and Presentations
 <p>Wierzbowski, K. (Co-Principal), <strong>Rath, L. T.</strong> (Co-Principal), "Technology for Mobile Students," Sponsored by Faculty/Staff Technology Support Initiative, The College at Brockport, $3,412.91. (July 1, 2013 - June 30, 2014).</p>
