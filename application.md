@@ -17,6 +17,7 @@ As Instruction & Reference Librarian:
 * Welcome the Teachers of Tomorrow Learning/Living Community to Brockport with a library tour annually
 * Created and updated [training materials and workshops](http://library.brockport.edu/zotero) for Zotero
 * Collaborated with First-Year Experience to update NetID information available to new students
+* Collaborated with Lifelong Learning Institute to provide training on accounts and Blackboard to a population of learners over 60
 * Collaborated with Online and Hybrid Learning Librarian and Instructional Technologist where appropriate
 * Reached out to ENG302 faculty to include information literacy instruction into the business curriculum
 * Developed the international business tab of the business research guide.
@@ -126,7 +127,10 @@ Postsecondary Information Literacy Readiness Assessment using ILAAP (IITG, $20,0
  > This project will adapt the Information Literacy Assessment & Advocacy Project (ILAAP) diagnostic tool for use throughout the SUNY system.  This online assessment will provide student admissions and advising officers with a clearer picture of a student’s information literacy competencies (ILC) as they relate to the Association for College and Research Libraries (ACRL) Framework for Information Literacy for Higher Education, the SUNY-GER, and campus requirements.  The tool will provide the student with an ILC report that includes a series of “next steps for remediation” when they’ve tested deficient in specific competencies.  The project campuses, University at Buffalo, Erie Community College, and The College at Brockport, will work with creators of ILAAP to customize the questionnaire based on institutional needs.  The revised questionnaire will be administered during the fall 2017 semester, revised, re-administered in the spring 2018, and finalized for rollout across SUNY during the summer 2018.  
 
 OpenSUNY Information Literacy Portal, (IITG, $20,000)
-> This project will help share locally created and locally curated information literacy content among  SUNY  librarians  and  faculty.  This  project  will  have  two  tiers:  development  of  guidelines  for  the  creation  of  shareable  and  adaptable  information  literacy  content  as  well  as  development  of  a  platform  to  facilitate  locating  and  exchanging  content.  As  an  end  result,  this  project  will  support  instructional endeavors in all modalities, especially online courses provided through Open SUNY.  
+> This project will help share locally created and locally curated information literacy content among  SUNY  librarians  and  faculty.  This  project  will  have  two  tiers:  development  of  guidelines  for  the  creation  of  shareable  and  adaptable  information  literacy  content  as  well  as  development  of  a  platform  to  facilitate  locating  and  exchanging  content.  As  an  end  result,  this  project  will  support  instructional endeavors in all modalities, especially online courses provided through Open SUNY.
+
+SUNY Open Educational Resources: Improving Faculty Discovery and Adoption (IITG, $60,000)
+
 
 ### III. Presentations
 <p>Myers, K. H. (Presenter &amp; Author), <strong>Rath, L. T.</strong> (Presenter &amp; Author), Orzech, M. J. (Presenter &amp; Author), CELT, "Open Access- What's It All About and Why Should I Care?," CELT, Brockport, NY. (May 9, 2017).</p>
@@ -163,7 +167,7 @@ OpenSUNY Information Literacy Portal, (IITG, $20,000)
 <p><strong>Rath, L. T.</strong> (Presenter &amp; Author), Conference on Instruction &amp; Technology, "Development of a Knowledge Base for Incorporating Technology in to Courses," Faculty Advisory Council on Teaching &amp; Technology, Utica, NY. (May 25, 2013).</p>
 <p>Maxwell, P. (Presenter &amp; Author), <strong>Rath, L. T.</strong> (Presenter &amp; Author), VanGraafeiland, A. (Presenter &amp; Author), Perry, S. M. (Presenter &amp; Author), Follansbee, P. (Presenter &amp; Author), "Technology &amp; Comprehension Using Mobile Devices," CELT, The College at Brockport. (April 4, 2013).</p>
 <p><strong>Rath, L. T.</strong> (Presenter &amp; Author), ILLiad International Conference, "Share the Fun: Insourcing Your ILL Department," Atlas Systems, Virginia Beach, VA. (March 20, 2013).</p>
-<p>Little, M. (Presenter &amp; Author), Sisak, C. (Presenter &amp; Author), <strong>Rath, L. T.</strong> (Presenter &amp; Author), Mui, P. (Presenter &amp; Author), Okamoto, K. (Presenter &amp; Author), Jones, W. (Presenter &amp; Author), ILLiad International Conference, "The IDS Project User Groups: Sharing and Training Resources with Resource Sharers," Atlas Systems, Virginia Beach, VA. (March 20, 2013).</p>
+<p>Little, M. (Presenter &amp; Author), Sisak, C. (Presenter &amp; Author), <strong>Rath, L. T.</strong> (Presenter &amp; Author), Mui, P. (Presenter &amp; Author), Okamoto, KUnderstanding Students’ Experiences, Attitudes and Perceptions of Online Learning Environments."(Presenter &amp; Author), Jones, W. (Presenter &amp; Author), ILLiad International Conference, "The IDS Project User Groups: Sharing and Training Resources with Resource Sharers," Atlas Systems, Virginia Beach, VA. (March 20, 2013).</p>
 <p>Toth, G. M. (Presenter &amp; Author), Kegler, J. L. (Presenter &amp; Author), <strong>Rath, L. T.</strong> (Presenter &amp; Author), Center for Excellence in Learning and Teaching (CELT) Brown Bag Discussion, ""Google for Faculty"," CELT, College at Brockport, Brockport, NY. (February 15, 2013).</p>
 
 ### IV. Non peer-reviewed or adjudicated scholarly and creative products.
@@ -171,21 +175,97 @@ OpenSUNY Information Literacy Portal, (IITG, $20,000)
 * See [Supporting Documents](documentation)
 
 ### V. Work in Progress
+<p>Olmstead, K. (Co-Principal), <strong>Rath, L. T.</strong> (Co-Principal), Zhang, J. (Co-Investigator), Haibach, P. (Co-Investigator), Pearlman, A. (Co-Investigator), Perreault, M. (Co-Investigator), Seo, J. (Co-Investigator), Breitkopf, M. (Co-Investigator), "Understanding Students’ Experiences, Attitudes and Perceptions of Online Learning Environments."</p>
+
 ### VI. Internal Grants, Publications and Presentations
 <p>Wierzbowski, K. (Co-Principal), <strong>Rath, L. T.</strong> (Co-Principal), "Technology for Mobile Students," Sponsored by Faculty/Staff Technology Support Initiative, The College at Brockport, $3,412.91. (July 1, 2013 - June 30, 2014).</p>
 <p>Myers, K. H. (Co-Principal), <strong>Rath, L. T.</strong> (Co-Principal), "F/S Technology Initiative Grant," Sponsored by College Technology Council and CELT, The College at Brockport, $4,995.00. (July 1, 2013 - Present).</p>
+
 ### VII. Professional Development Related to Scholarship
+* Enrollment in PhD program for Curriculum, Instruction, & the Science of Learning at the University at Buffalo
+** Courses completed: Intro to CISL, Intro to Educational Statistics
 
 
 
 COLLEGE, COMMUNITY, AND PROFESSIONAL SERVICE
 --------------------------------------------
 ### I. Departmental service (other than advising)
+Committee Member, Drake Welcome Wagon (2017 - Present)
+* Convened the first meeting to make Drake a welcoming space for all
+
+Committee Chair, APT (2015-2016)
+* Rewrote bylaws
+
+Library Webmaster(2013 - Present)
+* Design and coordinate updates to the library Web site
+
 ### II. College service
+Committee Chair, College Senate Faculty & Staff Policies. (July 2017 - May 2018)
+* Chair the College Senate committee concerned with faculty and staff policies
+* By virtue of this position, I also serve on:
+** Enterprise Risk Management Committee
+** Committee on Disability and Access
+
+Parliamentarian, College Senate. (January 2017 - May 2017; August 2015 - May 2016)
+* Advise College Senate President on matters of parliamentary procedure
+
+Committee Member, Faculty Roles, Rewards, & Responsibilities. (September 2015 - May 2017)
+* Charged by the Provost to update the 1998 document on Faculty Roles and Rewards
+
+Attendee, Meeting, North Campus Revitalization Communications Committee. (November 2015 - May 2016)
+* Help with communication efforts with the North Campus Revitalization project. Asked to be on the committee by Beau Willis.
+
+Committee Member, University Programs & Awards Committee. (September 2015 - Present)
+* Represent Librarian interests on to the SUNY University Faculty Senate Programs & Awards Committee
+* Reviewed COCID applications
+
+Program Coordinator, Tools of Engagement Project. (August 1, 2013 - May 30, 2015)
+* Encourage faculty members to explore and complete the Tools of Engagement project located at http://www.suny.edu/toep
+
+University Senate Service, University Faculty Senate. (July 1, 2013 - July 1, 2014)
+* Attend Senate plenaries and represent the interests of Faculty at Brockport.
+
+College Senate Service, Bylaws Committee. (January 2013 - April 2013; January 2015 - April 2015)
+* Propose bylaw amendments to the College Senate.
+
+Committee Member, Developing a SUNY-wide Transliteracy Learning Collaborative to Promote Information and Technology 
+* Components for the 21st Century. (January 14, 2013 - March 15, 2013)
+* This committee generated metaliteracy objectives.
+
 ### III. Public and community service (must be related to area of professional expertise)
+ 
 ### IV. Service to the discipline or profession (work in professional organizations. etc.)
-### V. Professional Development Related to Librarianship
+Committee Chair, SUNYLA Working Group for Information Literacy. (June 2014 - Present)
+* Coordinate activities among instruction librarians across SUNY
+* Resulted in 3Ts conference being at Brockport October 2016
+
+Workshop Organizer, Monroe 2 BOCES. (February 2017 - June 2017)
+* Local Arrangements Chair for High School to College Workshop
+
+Workshop Organizer, SUNYLA Annual Conference. (2013 - Present)
+* Provided registration services.
+
+Mentor, IDS Project. (April 2011 - August 2016)
+* Worked with several IDS
+ 
+Delegate, SUNYLA. (March 2014 - June 2016)
+* Coordinate information exchange between SUNYLA Council and Drake Librarians
+
+FACTT Liaison, SUNYLA. (June 2013 - June 2016)
+* Serve on the Faculty Access to Teaching and Technology council and represent the librarian viewpoint
+
+Committee Chair, Innovative Library Serivces though Technology. (October 2012 - December 2014)
+* Develop a certificate program through the Center for Professional Development within SUNY
+
+SUNYConnect Liaison, SUNYLA. (June 2010 - June 2013)
+* Participate on the SUNYConnect conference calls to represent the interests of non-directors
 
 
 FACULTY CONTRIBUTIONS TO COLLEGE DIVERSITY EFFORT
 -------------------------------------------------
+* Authored and updated the [Women and Gender Studies Libguide](http://library.brockport.edu/gender).
+* Trained as a SafeZones trainer. 
+* Supported the Office of Diversity in answering questions.
+* Work with the McNair scholars over the summer to provide library instruction and research support.
+* Work with the Lifelong Learners group to provide information.
+* I int
