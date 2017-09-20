@@ -1,6 +1,7 @@
 ---
 layout: portfolio
 title: Supporting Documentation
+---
 
 ### Instructional Materials
 * [Lesson Plans and Classes](https://drive.google.com/drive/folders/0Bw9xytWyXu-8Q2Jrbi1jSHJiTm8?usp=sharing){:target=_blank}
@@ -15,6 +16,10 @@ Handouts
 *[Library Notes Page](/uploads/artifact_LibraryNotes.pdf){:target=_blank}
 
 ### Scripts & Coding
+*[Summon Requests](/uploads/artifact_sRequest.txt){:target=_blank}
+*Kiosk Homepage
+*Ask a Librarian page
+*RequestIt! page
 
 ### Thank You Letters for Instruction
 *[Dr. Ingrid McGuffog, Criminal Justice](/uploads/thanks_McGuffog.pdf){:target=_blank}
