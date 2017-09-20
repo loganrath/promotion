@@ -9,13 +9,13 @@ EFFECTIVE PERFORMANCE IN LIBRARIANSHIP
 
 As Instruction & Reference Librarian:
 * Delivered 400+ information literacy sessions across a variety of disciplines (CRJ, CSC, DCC, EDI, ENG, FCE, GEP, HLP, HON, HST, PAD, PBH, PLS, PRO, SPN, and SWO) as well as to Spencerport HS
-* Created 50+ [asynchronous information literacy experiences](https://brockport.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_1565_1&content_id=_41924_1)
+* Created 50+ [asynchronous information literacy experiences](https://brockport.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_1565_1&content_id=_41924_1){:target="_blank"}
 * Served as an embedded librarian into EDI 448/548 (twice) & 671 (three times) with Allison Wright to explore multiple cultural events
 * Flipped instruction offerings to EDI600 starting in 2013
 * Mapped information literacy curriculum across undergraduate program in elementary education
 * Performed 200+ one-on-one research consultations with students and faculty in support of courses in ASL, BUS, CSC, CRJ, EDI, FCE, HON, FRN, NUR, PBH, SPN, and SWO
 * Welcome the Teachers of Tomorrow Learning/Living Community to Brockport with a library tour annually
-* Created and updated [training materials and workshops](http://library.brockport.edu/zotero) for Zotero
+* Created and updated [training materials and workshops](http://library.brockport.edu/zotero){:target="_blank"} for Zotero
 * Collaborated with First-Year Experience to update NetID information available to new students
 * Collaborated with Lifelong Learning Institute to provide training on accounts and Blackboard to a population of learners over 60
 * Collaborated with Online and Hybrid Learning Librarian and Instructional Technologist where appropriate
@@ -40,7 +40,7 @@ As Resource Sharing Librarian (until 9/2014):
 ### II. Supervisory and administrative ability
 * Maintained several library systems (Springshare products, venue management in EMS, & Library website)
 * Oversaw a redesign for integration with Blackboard through the LibApps LTI tool
-* Administered [Open SUNY Information Literacy Portal](https://digitalcommons.brockport.edu/opensuny) 
+* Administered [Open SUNY Information Literacy Portal](https://digitalcommons.brockport.edu/opensuny){:target="_blank"}
 * Oversaw the 3Ts conference on October 19, 2017
 * Oversaw local arrangements for a one-day conference with local high school and academic librarians on May 24, 2017. (2016-2017)
 * Prepared and made available online the Middle States Monitoring Report (Fall 2015)
@@ -119,7 +119,7 @@ SCHOLARSHIP, RESEARCH AND CREATIVE ACCOMPLISHMENTS
 <p>Rath, L. (2017). Transitioning from face to face to online with USER in mind. In B. West, K. Hoffman, &amp; M. Costello (Eds.). <em>Creative instructional design: Practical application for libraries.</em> Chicago, IL: ACRL.</p>
 <p>Cimbricz, S. &amp; Rath, L. (2016). Empowering learners to become metaliterate in a digital and multimodal age. In T. Mackey &amp; T. Jacobson (Eds.), <em><a href="https://www.alastore.ala.org/detail.aspx?ID=11538" target="_blank" rel="noopener">Metaliteracy in practice</a></em> (pp. 91-112). Chicago, IL: American Library Association.</p>
 <p>Rath, L. &amp; Cimbricz, S. (2015). Collaborating around critical multiliteracies. <em>Behavioral &amp; Social Sciences Librarian 34</em>(2), 47-54 doi:<a href="http://dx.doi.org/10.1080/01639269.2015.1042816" target="_blank" rel="noopener">10.1080/01639269.2015.1042816</a></p>
-<p><strong>Rath, L. T.</strong> (2015). <em>360Core Addon</em>. Virginia Beach, VA: Atlas Systems. https://prometheus.atlas-sys.com/display/ILLiadAddons/360Core+Search</p>
+<p><strong>Rath, L. T.</strong> (2015). <em>360Core Addon</em>. Virginia Beach, VA: Atlas Systems. <a href="https://prometheus.atlas-sys.com/display/ILLiadAddons/360Core+Search" target="_blank">https://prometheus.atlas-sys.com/display/ILLiadAddons/360Core+Search</a></p>
 <p>Rath, L. (2013). Development of a knowledge base for incorporating technology in to courses. <em>Journal of Educational Technology Systems 42</em>(2). doi:<a href="http://dx.doi.org/10.2190/ET.42.2.g" target="_blank" rel="noopener">10.2190/ET.42.2.g</a></p>
  
 ### II. Externally-funded projects or grants
@@ -171,8 +171,8 @@ SUNY Open Educational Resources: Improving Faculty Discovery and Adoption (IITG,
 <p>Toth, G. M. (Presenter &amp; Author), Kegler, J. L. (Presenter &amp; Author), <strong>Rath, L. T.</strong> (Presenter &amp; Author), Center for Excellence in Learning and Teaching (CELT) Brown Bag Discussion, ""Google for Faculty"," CELT, College at Brockport, Brockport, NY. (February 15, 2013).</p>
 
 ### IV. Non peer-reviewed or adjudicated scholarly and creative products.
-* [Research Guides](http://library.brockport.edu/prf.php?account_id=456)
-* See [Supporting Documents](documentation)
+* [Research Guides](http://library.brockport.edu/prf.php?account_id=456){:target="_blank"}
+* See [Supporting Documents](documentation.html)
 
 ### V. Work in Progress
 <p>Olmstead, K. (Co-Principal), <strong>Rath, L. T.</strong> (Co-Principal), Zhang, J. (Co-Investigator), Haibach, P. (Co-Investigator), Pearlman, A. (Co-Investigator), Perreault, M. (Co-Investigator), Seo, J. (Co-Investigator), Breitkopf, M. (Co-Investigator), "Understanding Students’ Experiences, Attitudes and Perceptions of Online Learning Environments."</p>
@@ -263,9 +263,8 @@ SUNYConnect Liaison, SUNYLA. (June 2010 - June 2013)
 
 FACULTY CONTRIBUTIONS TO COLLEGE DIVERSITY EFFORT
 -------------------------------------------------
-* Authored and updated the [Women and Gender Studies Libguide](http://library.brockport.edu/gender).
+* Authored and updated the [Women and Gender Studies Libguide](http://library.brockport.edu/gender){:target="_blank"}.
 * Trained as a SafeZones trainer. 
 * Supported the Office of Diversity in answering questions.
 * Work with the McNair scholars over the summer to provide library instruction and research support.
 * Work with the Lifelong Learners group to provide information.
-* I int
