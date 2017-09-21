@@ -4,8 +4,7 @@ title: Supporting Documentation
 ---
 
 ### Instructional Materials
-* [Lesson Plans and Classes](https://drive.google.com/drive/folders/0Bw9xytWyXu-8Q2Jrbi1jSHJiTm8?usp=sharing){:target=_blank}
-** This Google folder contains several instructional materials
+* [Selected Lesson Plans](https://drive.google.com/drive/folders/0Bw9xytWyXu-8Q2Jrbi1jSHJiTm8?usp=sharing){:target=_blank}
 
 Handouts
 *[APA & Writing Worksheet](/uploads/artifact_APAWriting.pdf){:target=_blank}
@@ -17,9 +16,9 @@ Handouts
 
 ### Scripts & Coding
 *[Summon Requests](/uploads/artifact_sRequest.txt){:target=_blank}
-*Kiosk Homepage
-*Ask a Librarian page
-*RequestIt! page
+*[Kiosk Homepage](/uploads/artifact_kiosk.txt){:target=_blank}
+*[Ask a Librarian page](/uploads/artifact_ask.txt){:target=_blank}
+*[RequestIt! page](/uploads/artifact_openurl.txt){:target=_blank}
 
 ### Thank You Letters for Instruction
 *[Dr. Ingrid McGuffog, Criminal Justice](/uploads/thanks_McGuffog.pdf){:target=_blank}

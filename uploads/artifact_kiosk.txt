@@ -1,0 +1,239 @@
+<?php $e = $_GET['e']; ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Drake Library Kiosk</title>
+<style>
+#title {font-family: Raleway; background-color: #ffc726; color: #00533e; text-align:center; line-height:36px; padding: 1em; border-radius: 20px;}
+#title h1 {font-size: 72px;}
+#message p, .divbtn p {font-size: 48px;}
+.divbtn {font-family: Raleway; background-color: #00533e; color: white; padding: 2em 1em; border-radius: 20px; height:75px;}
+.divbtn form, .divbtn a {line-height: 1em; font-size: 24px; color: white;}
+.divbtn a:hover {color: #ffc726;}
+.divbtn label {display: block;}
+.divbtn input.input {font-size: 24px; width:80%;}
+.clear {clear: both;}
+.center {text-align:center;}
+</style>
+	<link href="https://fonts.googleapis.com/css?family=Raleway:500,700|Droid+Serif:400,700" rel="stylesheet" type="text/css"/>
+		<script src="/_resources/js/jquery.min.js"> </script>
+		<script src="/_resources/js/lib.min.js"> </script>
+		<script src="/_resources/js/legacy.js"> </script>
+</head>
+
+<body>
+<?php 
+if ($e == "vems") {
+		makeHeader();
+		createButton("Today's Events in Drake Library","http://brockport.edu/q/aEk"); 
+		createButton("This Week's List of Events in Drake Library","http://brockport.edu/q/JC5");
+		clear(); 
+		createButton("Request a Room in Drake Library","https://emsweb.brockport.edu/virtualems/Login.aspx");
+		createButton("Search the Library's Collections","https://brockport.summon.serialssolutions.com");
+} 
+elseif ($e=="walkup") {
+	makeItHeader();
+	createButton("Reset your NetID or Email Password","https://suny.service-now.com/kb_view.do?sysparm_article=KB0010087");
+	createButton("Brockport OnTheHub Service","https://suny.service-now.com/kb_view.do?sysparm_article=KB0010116");
+	clear();
+	createButton("Printing in the Library","https://suny.service-now.com/kb_view.do?sysparm_article=KB0010255");
+	createButton("Contact the Service Desk","https://brockport.edu/support/lits/helpdesk/");
+	clear();
+	createButton("Available Software on Lab Machines","https://suny.service-now.com/kb_view.do?sysparm_article=KB0010149");
+	createButton("Connect to the Wireless","https://suny.service-now.com/kb_view.do?sysparm_article=KB0010133");
+}
+
+elseif ($e == "circ") {
+		makeHeader();
+		createButton("Search the Library's Collections","http://library.brockport.edu/find/books");	
+//		createButton("Renew My Loans","http://bro.sunyconnect.suny.edu:4370/F/?func=BOR-INFO"); 
+		createButton("Take our Survey","https://brockport.co1.qualtrics.com/SE/?SID=SV_1X45kmunca0Cnxr");
+	clear(); 
+		createButton("Electronic Device &amp; Equipment Agreement","http://forms.brockport.edu/view.php?id=669372");
+		createButton("Request a Room in Drake Library","https://emsweb.brockport.edu/virtualems/Login.aspx");
+		clear();
+		createButton("Reserves Agreement Form","https://forms.brockport.edu/view.php?id=1247718");
+		createButton("WorldCat (for ILL)","https://search.idsproject.org/index.php?oclc_symbol=XBM&search_scope=consortia&view=ids");
+}
+
+elseif ($e == "ref") {
+			makeHeader();
+		createButton("Search the Library's Collections","https://brockport.summon.serialssolutions.com");	
+//		createButton("Renew My Loans","http://bro.sunyconnect.suny.edu:4370/F/?func=BOR-INFO"); 
+		createButton("Take our Survey","https://brockport.co1.qualtrics.com/SE/?SID=SV_1X45kmunca0Cnxr");
+		clear(); 
+		createButton("Take Our Survey","https://forms.brockport.edu/view.php?id=903654");
+		createButton("Change Password","https://www.brockport.edu/bounce/netid");
+		echo '<p style="text-align:right;"><a href="https://brockport.edu/library/about/maps.html"><img src="images/mapicon.png" width="64" height="64" alt="map icon" /></a></p>';
+}
+elseif ($e == "pw") {
+			makeHeader();
+		createButton("Test your NetID password", "https://brockport.open.suny.edu");
+		createButton("Forgot Your Password", "https://bannerprod.brockport.edu/pls/prod/twbkwbis.P_WWWLogin?ret_code=n");
+		clear();
+		echo '<p>You only need to make sure your NetID is working today. All your accounts will be explained tomorrow.</p>';
+}
+elseif ($e=="circ1") {
+			makeHeader();
+	createButton("Faculty Reserves Request","https://brockport.edu/q/HQi");
+	createButton("Find My Textbook","https://brockport.edu/q/BGk");
+	clear();
+	createButton("Equipment/Reserves Agreement","(https://brockport.edu/q/pkE");
+	createButton("Request a Room in Drake Library","https://brockport.edu/q/nVv");
+	clear();
+	createButton("WorldCat (for ILL)","https://search.idsproject.org/index.php?oclc_symbol=XBM&search_scope=consortia&view=ids");
+	createButton("Take our Survey","https://brockport.co1.qualtrics.com/SE/?SID=SV_1X45kmunca0Cnxr");
+}
+elseif ($e=="circ2") {
+			makeHeader();
+	createButton("Faculty Reserves Request","https://brockport.edu/q/rxn");
+	createButton("Find My Textbook","https://brockport.edu/q/ts9");
+	clear();
+	createButton("Equipment/Reserves Agreement","https://brockport.edu/q/u9G");
+	createButton("Request a Room in Drake Library","https://brockport.edu/q/Sqw");
+	clear();
+	createButton("WorldCat (for ILL)","https://search.idsproject.org/index.php?oclc_symbol=XBM&search_scope=consortia&view=ids");
+//		createButton("Renew My Loans","http://bro.sunyconnect.suny.edu:4370/F/?func=BOR-INFO"); 
+		createButton("Take our Survey","https://brockport.co1.qualtrics.com/SE/?SID=SV_1X45kmunca0Cnxr");
+}
+
+elseif ($e=="ask") { ?>
+	<div style="float: left; width: 450px">
+	<img src="/library/images/ellsworth_kiosk_banner.jpg" width="448" height="573" alt="Ellsworth Kiosk Banner" />
+	</div>
+	<div style="float:right; width: 500px;">
+		<div class="divbtn" style="margin-bottom: 0.5em;">
+		<p style="text-align:center; margin-top: 0.5em"><a href="https://brockport.edu/q/Cgy">Ask a Librarian</a></p>
+		</div><div class="divbtn" style="margin-bottom: 0.5em;">
+		<p style="text-align:center; margin-top: 0.5em"><a href="https://brockport.edu/q/6NH">Search the Library's Collections</a></p>
+		</div><div class="divbtn" style="margin-bottom: 0.5em;">
+		<p style="text-align:center; margin-top: 0.5em"><a href="https://brockport.edu/q/X36">Today's Events in Drake Library</a></p>
+		</div><div class="divbtn">
+		<p style="text-align:center; margin-top: 0.5em"><a href="https://brockport.edu/q/zHs">Take our Survey</a></p>
+	</div>
+		<div class="clear"></div>
+		</div>
+	<?php 
+				
+				   }
+elseif ($e=="ref1") {
+			makeHeader();
+	createButton("Find My Textbook","https://brockport.edu/q/mLr");
+	createButton("Today's Events in Drake Library","https://brockport.edu/q/fPj");
+	clear();
+	createButton("Change a Password","https://brockport.edu/q/FbT");
+	createButton("Request a Room in Drake Library","http://brockport.edu/q/dTm");
+makeMaps();
+}
+elseif ($e=="ref2") {
+			makeHeader();
+	createButton("Find My Textbook","https://brockport.edu/q/Ppa");
+	createButton("Today's Events in Drake Library","https://brockport.edu/q/AuB");
+	clear();
+	createButton("Request a Room in Drake Library","http://brockport.edu/q/3DL");
+	createButton("Take our Survey","http://brockport.edu/q/TUJ");
+	makeMaps();
+}
+elseif ($e=="ref3") {
+	makeHeader();
+	createButton("Request a Room in Drake Library","https://brockport.edu/q/JCx");
+	createButton("Take Our Survey","https://brockport.edu/q/aE4");
+			clear(); 
+	createButton("Search the Library’s Collections","https://brockport.edu/q/BG5");
+	createButton("Today’s Events in Drake Library","https://brockport.edu/q/tsk");
+makeMaps();
+}
+elseif ($e=="juv") {
+			makeHeader();
+	createButton("Search the JUV guide","http://library.brockport.edu/juv");
+	createButton("Change a Password","https://brockport.edu/q/JC4");
+	clear();
+	createButton("Suggest an Item","https://brockport.edu/q/Mmc");
+	createButton("Renew My Loans","http://bro.sunyconnect.suny.edu:4370/F/?func=BOR-INFO");
+makeMaps();
+}
+elseif ($e=="queen") {
+			makeHeader();
+	createButton("Change a Password","https://brockport.edu/q/aE5");
+	createButton("Like Our New Furniture? Click here","https://forms.brockport.edu/view.php?id=1315789");
+	clear();
+	createButton("Search the Library's Collections","https://brockport.edu/q/7j3");
+	createButton("Today's Events in Drake Library","https://brockport.edu/q/k28");
+}
+elseif ($e=="vems1") {
+			makeHeader();
+	createButton("Request a Room in Drake Library","https://brockport.edu/q/E8Z");
+	createButton("Search the Library's Collections","https://brockport.edu/q/jJD");
+	clear();
+	createButton("Today's Events in Drake Library","https://brockport.edu/q/vWP");
+	createButton("This Week's List of Events in Drake Library","https://brockport.edu/q/RFd");
+}
+elseif ($e=="vems2") {
+			makeHeader();
+	createButton("Request a Room in Drake Library","https://brockport.edu/q/GY2");
+	createButton("Search the Library's Collections","https://brockport.edu/q/baU");
+	clear();
+	createButton("Today's Events in Drake Library","https://brockport.edu/q/weA");
+	createButton("This Week's List of Events in Drake Library","https://brockport.edu/q/Qvf");
+}
+elseif ($e=="vems3") {
+			makeHeader();
+	createButton("Request a Room in Drake Library","https://brockport.edu/q/siR");
+	createButton("Search the Library's Collections","https://brockport.edu/q/WBp");
+	clear();
+	createButton("Today's Events in Drake Library","https://brockport.edu/q/yoh");
+	createButton("This Week's List of Events in Drake Library","https://brockport.edu/q/xwV");
+}
+elseif ($e=="vems4") {
+			makeHeader();
+	createButton("Request a Room in Drake Library","https://brockport.edu/q/NnQ");
+	createButton("Search the Library's Collections","https://brockport.edu/q/etu");
+	clear();
+	createButton("Today's Events in Drake Library","https://brockport.edu/q/ZMK");
+	createButton("This Week's List of Events in Drake Library","https://brockport.edu/q/4yq");
+}
+elseif ($e=="vems5") {
+			makeHeader();
+	createButton("Request a Room in Drake Library","https://brockport.edu/q/LSx");
+	createButton("Search the Library's Collections","https://brockport.edu/q/o6z");
+	clear();
+	createButton("Today's Events in Drake Library","https://brockport.edu/q/27X");
+	createButton("This Week's List of Events in Drake Library","https://brockport.edu/q/5Zg");
+}
+else {
+			makeHeader();
+	createButton("Request a Room in Drake Library","https://emsweb.brockport.edu/VirtualEMS/");
+	createButton("Change a Password","https://brockport.edu/bounce/netid");
+	clear();
+	createButton("Find My Textbook","http://library.brockport.edu/find/books");
+	createButton("Ask a Librarian","https://brockport.edu/library/ask");
+}
+?>
+
+<div class="clear" style="height: 1em;"></div>
+<div id="message"><p class="center"><strong>This Kiosk resets after 5 minutes of inactivity.</strong></p></div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-9447881-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>
+<?php function createButton($text,$link) { ?>
+<div class="divbtn" style="float: left; margin-left: 2%; width: 44.5%; ">
+<p style="text-align:center; margin-top: 0.5em"><a href="<?=$link?>"><?=$text?></a></p>
+</div><?php }
+
+function clear() {echo "<div class=\"clear\" style=\"height: 1em;\"></div>"; }
+
+function makeMaps() {echo "<p style=\"text-align:right;\">Maps &amp; Floor Plans <a href=\"https://brockport.edu/library/about/maps.html\"><img src=\"images/mapicon.png\" width=\"64\" height=\"64\" alt=\"map icon\" /></a></p>";}
+
+function makeHeader() {echo "<div id=\"title\" style=\"margin-bottom: 3em;\"><h1>Drake Library Kiosk</h1></div>";}
+function makeItHeader() {echo "<div id=\"title\" style=\"margin-bottom: 3em;\"><h1>Drake Library Walkup Kiosk</h1></div>";}
+
+
+?>

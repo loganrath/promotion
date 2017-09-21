@@ -1,0 +1,113 @@
+<?php
+
+foreach($_GET as $key =>$value){
+	$$key=$value;
+	if ($key=="rft_genre") {$r1.="";}
+	elseif ($key=="genre") {$r1.="";}
+	else {$r1.=$key."=".$value."&";}
+}
+
+?>
+<?php if ($_SERVER['REQUEST_METHOD']=="POST") {
+	
+	foreach($_POST as $key =>$value){
+	$r1.=$key."=".$value."&";
+}
+
+$r2 = str_replace("rft_","rft.",$r1);
+
+if ($_POST['rft_genre']=="tracecard") : 
+
+	if (isset($_POST['rft_title'])) {$title=$_POST['rft_title'];}
+	elseif (isset($_POST['rft_btitle'])) {$realtitle = explode("/",$_POST['rft_btitle']); $title=$realtitle[0];}
+	else $title=$_POST['title'];
+
+	if (isset($_POST['rft_au'])) {$author=$_POST['rft_au'];}
+	else $author = $rft_aufirst . " " . $rft_aulast;
+	
+	$url ='https://forms.brockport.edu/view.php?id=566851&element_1='.$title.'&element_2='.$author.'&element_3='.$_POST['rft_callno'];
+
+	header("Location: ".$url);
+
+elseif ($_POST['rft_genre']=="reporterror") : 
+
+	if (isset($_POST['rft_title'])) {$title=$_POST['rft_title'];}
+	elseif (isset($_POST['rft_btitle'])) {$realtitle = explode("/",$_POST['rft_btitle']); $title=$realtitle[0];}
+	else $title=$_POST['title'];
+
+	if (isset($_POST['rft_au'])) {$author=$_POST['rft_au'];}
+	else $author = $rft_aufirst . " " . $rft_aulast;
+	
+	// 'https://forms.brockport.edu/view.php?id=1704458&element_8='.$atitle.'&element_9='.$au.' '.$aucorp.'&element_10='.$doi.'&element_11='.$$eissn.$eissnh.,$isbn.,$isbn10.,$isbn10h.,$isbnh.,$issn.,$issnh.'&element_12='.$sid;
+	
+	$url = 'https://forms.brockport.edu/view.php?id=1704458&element_8='.$title.'&element_9='.$author.'&element_11='.$_POST['rft_isbn'].'&element_12='.$_POST['sid'].'&element_doi='.$_POST['rft_doi'];
+
+	header("Location: ".$url);
+
+else:
+	
+	header("Location:https://brockport.illiad.oclc.org/illiad/illiad.dll/OpenURL?genre=".$_POST['rft_genre']."&".$r2);
+	
+endif;
+}
+	?>
+<?php $page_title="Request It!";
+include("/var/www/html/library/header-fullwidth.php"); ?>
+<h2 class="text-center">This request is for: <br /> <span style="color: #222; font-size: 18px;">
+
+<?php if (isset($_GET['rft_title'])) {echo urldecode($_GET['rft_title']);}
+	elseif (isset($_GET['rft_btitle'])) {$realtitle = explode("/",$_GET['rft_btitle']); echo urldecode($realtitle[0]);}
+	else echo urldecode($_GET['title']); ?>
+
+<br />by <?php echo urldecode(isset($_GET['rft_au']) ? $rft_au : $rft_aufirst . " " . $rft_aulast); ?></span>.</h2>
+
+<?php if ($_GET['hasurl']==1 && !preg_match('(catdir|toc)',$citedin)) : ?>
+
+<p class="text-center">We've found a link in the item's metadata. This link might be the full text if this is an eBook. </p><p style="border: 1px dotted #ccc; padding: 1em; font-size: 18px; line-height: 1.5em; margin-left: 2em; margin-right: 2em;"><a target="_blank" href="<?=urldecode($_GET['citedin']); ?>"><?=urldecode($_GET['citedin']); ?></a></p>
+
+<h3 class="text-center">If the link does not work or you prefer an alternate format, please <a href="http://www.brockport.edu/library/openurl.php?<?= str_replace("hasurl=1","",$r1); ?>">click here</a>.</h3>
+
+<?php else: ?>
+
+<form action="openurl.php" method="post" class="text-center">
+<?php foreach ($_GET as $key => $value) {
+	if ($key=="rft_btitle") {echo '<input type="hidden" name="rft_title" id="rft_title" value="'.$realtitle[0].'" />
+	';}
+	else echo '<input type="hidden" name="'.$key.'" id="'.$key.'" value="'.$value.'" />
+	';
+		}
+?>
+<p>I would like to: 
+<select name="rft_genre" id="rft_genre" style="font: 16px Arial, Helvetica, sans-serif;">
+	<option value="book" selected="selected" <?php echo ($_GET['rft_genre']=="book" ? "selected='selected'" : ""); ?>>receive a copy of this item (at Drake, MetroCenter or VSW).</option>
+
+<?php if (($_GET['rft_genre']=="book") or ($_GET['rft_genre']=="bookitem") or ($_GET['rft_genre']=="video")) : ?>
+	<option value="bookitem">request a scan of one chapter of this item for personal use.</option>
+	<option value="reservesloan">place this entire item on course reserve.</option>
+<?php endif; ?>    
+<?php if (($_GET['rft_genre']=="book") or ($_GET['rft_genre']=="bookitem") or ($_GET['rft_genre']=="reserveschapter")) : ?>
+	<option value="reserveschapter">request a scan of one chapter of this item for course reserve.</option>
+<?php endif; ?>
+<?php if ($_GET['sid']=="Summon") : ?>
+	<option value="tracecard">report this item missing.</option>
+	<option value="reporterror">report a problem with this item.</option>
+<?php endif; ?>
+</select></p>
+<input type="hidden" name="r2" value="<?php echo $r2; ?>" />
+<input type="submit" name="submit" value="Continue" class="button radius" />
+</form>
+<div class="text">
+<h2>Please Read:</h2>
+<ul>
+<li>Scans of chapters are limited to one chapter per container. If you need multiple chapters, please request the entire item.</li>
+<li>Please allow 1 business day for us to process your request. We will send you an email when your item is ready.</li>
+<li>Should you need assistance more quickly, please call us at <strong>585-395-2277</strong> instead of placing this request.</li>
+</ul>
+<h2>For Course Reserves:</h2>
+<ul>
+<li>If you choose to place a scan of an item on course reserve, we will pull the item, scan it, and deliver it to you as an OCR-enabled PDF. You must then download the file and upload the PDF to Blackboard.</li>
+</ul>
+</div>
+<?php endif; ?>
+<ouc:ob/>
+<?php include("/var/www/html/library/footer-fullwidth.php"); ?>
