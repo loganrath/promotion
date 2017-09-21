@@ -5,8 +5,6 @@ title: Supporting Documentation
 
 ### Instructional Materials
 * [Selected Lesson Plans](https://drive.google.com/drive/folders/0Bw9xytWyXu-8Q2Jrbi1jSHJiTm8?usp=sharing){:target=_blank}
-
-Handouts
 * [APA & Writing Worksheet](/uploads/artifact_APAWriting.pdf){:target=_blank}
 * [Concept Map](/uploads/artifact_ConceptMap.pdf){:target=_blank}
 * [Database Tips & Tricks](/uploads/artifact_Boolean.pdf){:target=_blank}
