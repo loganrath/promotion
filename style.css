@@ -16,7 +16,7 @@ div#page-context {
  padding-bottom: 0.5em;
 }
 
-ul {margin-bottom: 0.5em;}
+li {margin-bottom: 0.5em;}
 
 ul.nav {
     list-style-type: none;
@@ -28,6 +28,7 @@ ul.nav {
 
 ul.nav li {
     float: left;
+    margin-bottom: 0;
 }
 
 ul.nav li a {
