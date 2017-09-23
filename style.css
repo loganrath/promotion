@@ -16,6 +16,8 @@ div#page-context {
  padding-bottom: 0.5em;
 }
 
+ul {margin-bottom: 0.5em;}
+
 ul.nav {
     list-style-type: none;
     margin: 0;
