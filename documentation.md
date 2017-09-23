@@ -21,7 +21,7 @@ title: Supporting Documentation
 ### Thank You Letters for Instruction
 * [Dr. Ingrid McGuffog, Criminal Justice](/uploads/thanks_McGuffog.pdf){:target="_blank"}
 * [Dr. Jason Dauenhauer, Social Work](/uploads/thanks_Dauenhauer.pdf){:target="_blank"}
-* [Dr. John Kane, SUNY Oswego](/upload/thanks_Kane.pdf){:target="_blank"}
+* [Dr. John Kane, SUNY Oswego](/uploads/thanks_Kane.pdf){:target="_blank"}
 * [Ms. Monique Rew, Residential Life](/uploads/thanks_Rew.pdf){:target="_blank"}
 * [Ms. Fatima Lundy, student](/uploads/thanks_Lundy.pdf){:target="_blank"} 
 

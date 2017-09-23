@@ -183,7 +183,7 @@ SUNY Open Educational Resources: Improving Faculty Discovery and Adoption (IITG,
 
 ### VII. Professional Development Related to Scholarship
 * Enrollment in PhD program for Curriculum, Instruction, & the Science of Learning at the University at Buffalo
-** Courses completed: Intro to CISL, Intro to Educational Statistics
+ * Courses completed: Intro to CISL, Intro to Educational Statistics
 
 
 
