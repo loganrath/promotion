@@ -7,6 +7,8 @@ title: Letters of Support
 
 [Dr. Elizabeth Heavey, Department of Nursing](/uploads/letter_Heavey.pdf){:target="_blank"}
 
+[Dr. Ingrid McGuffog, Department of Criminal Justice](/uploads/letter_McGuffog.pdf){:target="_blank"}
+
 [Dr. Sue Robb, Associate Dean for Education, Health, & Human Services](/uploads/letter_Robb.pdf){:target="_blank"}
 
 [Dr. Kate Yurko, Education & Human Development](/uploads/letter_Yurko.pdf){:target="_blank"}

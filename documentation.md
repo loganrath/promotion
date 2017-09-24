@@ -31,3 +31,7 @@ title: Supporting Documentation
 ### Thank You Letters for Service
 * Thank you for Middle States help: [Mr. Jeff Smith](/uploads/thanks_SmithMS.pdf){:target="_blank"} [Ms. Frances Dearing](/uploads/thanks_Dearing.pdf){:target="_blank"}
 * [Dr. Linda Balog, Professional Education Unit, Thank you for CAEP Visit](/uploads/thanks_Balog.pdf){:target="_blank"}
+
+### Honors and Awards
+* [Chancellor's Award for Librarianship, 2016](/uploads/artifact_ChancellorsAward.pdf){:target="_blank"} (Nomination available as an appendix)
+* [Open SUNY Expert Instructional Designer, 2017](/uploads/artifact_opensunyEID.pdf){:target="_blank"}
