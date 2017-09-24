@@ -7,7 +7,7 @@ body {
 
 div#content {margin-left: auto; margin-right: auto; background-color: white; width: 100%%;}
 
-div#header {background-color: #006024; color: white; padding-top: 1em;}
+#bptlogo {display: none;}
 
 h3 {background-color: #ffc726;}
 
