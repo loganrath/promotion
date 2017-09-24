@@ -172,6 +172,8 @@ SUNY Open Educational Resources: Improving Faculty Discovery and Adoption (IITG,
 
 ### IV. Non peer-reviewed or adjudicated scholarly and creative products.
 * [Research Guides](http://library.brockport.edu/prf.php?account_id=456){:target="_blank"}
+* [My Brockport Accounts chart](/uploads/artifact_Accounts.pdf){:target="_blank"}
+* [APA Reference List Rubric for Blackboard](http://digitalcommons.brockport.edu/drakepubs/27/){:target="_blank"}
 * See [Supporting Documents](documentation.html)
 
 ### V. Work in Progress
@@ -264,7 +266,8 @@ SUNYConnect Liaison, SUNYLA. (June 2010 - June 2013)
 FACULTY CONTRIBUTIONS TO COLLEGE DIVERSITY EFFORT
 -------------------------------------------------
 * Authored and updated the [Women and Gender Studies Libguide](http://library.brockport.edu/gender){:target="_blank"}.
+* Supported our [Summer LEAP](https://www.brockport.edu/support/summer_leap/) program
 * Trained as a SafeZones trainer. 
-* Supported the Office of Diversity in answering questions.
+* Supported the Office of Diversity in answering questions about the library's collection including increasing the number of books involving transgender issues.
 * Work with the McNair scholars over the summer to provide library instruction and research support.
-* Work with the Lifelong Learners group to provide information.
+* Work with the Lifelong Learners group (participants are 60+ years of age) to provide orientation information.
