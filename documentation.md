@@ -12,6 +12,9 @@ title: Supporting Documentation
 * [How To Access Your Accounts](/uploads/artifact_HowToAccess.pdf){:target="_blank"}
 * [Library Notes Page](/uploads/artifact_LibraryNotes.pdf){:target="_blank"}
 
+### Scholarship
+* [Digital Commons Author Dashboard Summary](/uploads/artifact_bepress.pdf){:target="_blank"}
+
 ### Scripts & Coding
 * [Summon Requests](/uploads/artifact_sRequest.txt){:target="_blank"}
 * [Kiosk Homepage](/uploads/artifact_kiosk.txt){:target="_blank"}
@@ -26,5 +29,5 @@ title: Supporting Documentation
 * [Ms. Fatima Lundy, student](/uploads/thanks_Lundy.pdf){:target="_blank"} 
 
 ### Thank You Letters for Service
-Thank you for Middle States help: [Mr. Jeff Smith](/uploads/thanks_SmithMS.pdf){:target="_blank"} [Ms. Frances Dearing](/uploads/thanks_Dearing.pdf){:target="_blank"}
+* Thank you for Middle States help: [Mr. Jeff Smith](/uploads/thanks_SmithMS.pdf){:target="_blank"} [Ms. Frances Dearing](/uploads/thanks_Dearing.pdf){:target="_blank"}
 * [Dr. Linda Balog, Professional Education Unit, Thank you for CAEP Visit](/uploads/thanks_Balog.pdf){:target="_blank"}

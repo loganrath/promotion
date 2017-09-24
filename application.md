@@ -12,16 +12,17 @@ As Instruction & Reference Librarian:
 * Created 50+ [asynchronous information literacy experiences](https://brockport.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_1565_1&content_id=_41924_1){:target="_blank"}
 * Served as an embedded librarian into EDI 448/548 (twice) & 671 (three times) with Allison Wright to explore multiple cultural events
 * Flipped instruction offerings to EDI600 starting in 2013
+* Infused EDI600 content into multiple courses upon program reconfiguration
 * Mapped information literacy curriculum across undergraduate program in elementary education
-* Performed 200+ one-on-one research consultations with students and faculty in support of courses in ASL, BUS, CSC, CRJ, EDI, FCE, HON, FRN, NUR, PBH, SPN, and SWO
-* Welcome the Teachers of Tomorrow Learning/Living Community to Brockport with a library tour annually
+* Performed over 200 one-on-one research consultations with students and faculty in support of courses in ASL, BUS, CSC, CRJ, EDI, FCE, HON, FRN, NUR, PBH, SPN, and SWO
+* Welcomed the [Teachers of Tomorrow Learning/Living Community](https://www.brockport.edu/life/living_learning_communities/tot.html){:target="_blank"} to Brockport with a library tour annually
 * Created and updated [training materials and workshops](http://library.brockport.edu/zotero){:target="_blank"} for Zotero
 * Collaborated with First-Year Experience to update NetID information available to new students
-* Collaborated with Lifelong Learning Institute to provide training on accounts and Blackboard to a population of learners over 60
+* Collaborated with [Lifelong Learning Institute](http://alumni.brockport.edu/s/1549/rd17/interior.aspx?sid=1549&gid=1&pgid=1010){:target="_blank"} to provide training on accounts and Blackboard to a population of learners over 60
 * Collaborated with Online and Hybrid Learning Librarian and Instructional Technologist where appropriate
 * Reached out to ENG302 faculty to include information literacy instruction into the business curriculum
-* Developed the international business tab of the business research guide.
-* Served as liaison to the departments of Education & Human Development, Modern Languages and Cultures, Psychology, Sociology and Criminal Justice
+* Began development of the international business tab of the business research guide.
+* Served as liaison to the departments of Education & Human Development, Modern Languages and Cultures, Psychology, Sociology, and Criminal Justice
 * Served on the reference desk including night and weekend rotations
 
 
@@ -34,24 +35,23 @@ As Assessment Librarian:
 As Resource Sharing Librarian (until 9/2014):
 * Oversaw daily office operations including Lending, Borrowing and Document Delivery consisting of 23,000+ requests per year.
 * Oversaw daily office operations of ADA-compliant scanning of items for course reserve.
-* Maintained and troubleshot IDSSearch, EZproxy, ILLiad and OpenURL.
+* Maintained and troubleshot [IDSSearch](https://search.idsproject.org/index.php?oclc_symbol=XBM&search_scope=consortia&view=ids){:target="_blank"}, EZproxy, ILLiad and OpenURL.
 
 
 ### II. Supervisory and administrative ability
-* Maintained several library systems (Springshare products, venue management in EMS, & Library website)
-* Oversaw a redesign for integration with Blackboard through the LibApps LTI tool
+* Maintained several library systems ([Springshare products](http://library.brockport.edu){:target="_blank"}, venue management in [EMS](http://emsweb.brockport.edu/VirtualEMS/){:target="_blank"}, & [Library website](https://brockport.edu/library){:target="_blank"}
+* Oversaw a redesign for integration with Blackboard through the [LibApps LTI tool](https://library.brockport.edu/faculty-support/blackboard){:target="_blank"}
 * Administered [Open SUNY Information Literacy Portal](https://digitalcommons.brockport.edu/opensuny){:target="_blank"}
-* Oversaw the 3Ts conference on October 19, 2017
-* Oversaw local arrangements for a one-day conference with local high school and academic librarians on May 24, 2017. (2016-2017)
+* Oversaw the [3Ts conference](https://rrlc.org/event-details/3ts-2016-teaching-technology-applied-engaged-learning/){:target="_blank"} on October 17, 2016
+* Oversaw local arrangements for a one-day conference with local high school and academic librarians on May 24, 2017
 * Prepared and made available online the Middle States Monitoring Report (Fall 2015)
 * Chaired APT (2015-2016)
-* Oversaw APT bylaws update (2016)
+* Oversaw [APT bylaws update](http://digitalcommons.brockport.edu/apt/94/){:target="_blank"} (2016)
 * Collaborated with constituents to improve specific sections of the LITS website
 * Participated in the Collection Evaluation Project
 * Co-planned and supported the transition of Resource Sharing to Susan Perry
-* Transitioned remaining ILL duties to Ken Wierzbowski
+* Transitioned remaining ILLiad support duties to Ken Wierzbowski
 * Supervised one student worker and one Syracuse intern
-* Oversaw LITS website (through 12/2014)
 
 As Resource Sharing Librarian (through 9/2014):
 * Managed one Library Clerk 2 and several student workers in Interlibrary Loan
@@ -63,52 +63,49 @@ As Resource Sharing Librarian (through 9/2014):
 
 ### III. Creativity in planning and problem solving and ability to handle successfully tasks of increasing responsibility and complexity
 * Developed an asynchronous APA course resulting in a local certificate to support literacy faculty
-* Delivered VoiceThread training in consultation with the Instructional Technologist to meet campus needs
-* Redesigned several online modules for courses delivered electronically
+* Delivered [VoiceThread](http://www.voicethread.com){:target="_blank"} training in consultation with the Instructional Technologist to meet campus needs
+* Redesigned several [online modules](https://brockport.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_1565_1&content_id=_41924_1){:target="_blank"} for courses delivered electronically
 * Created APA-compliant videos in support of transitioning Zotero instruction to the online environment
 * Assumed responsibility for supporting the asynchronous courses in the Nursing department
 * Updated accounts materials for Orientation
 * Developed and documented a process for generating more readable room schedules from EMS
 * Collaborated as part of the Instruction Team to recommend a platform to scale information literacy instruction in the online environment
-* Co-authored open access resolution for Brockport based on MIT and Stony Brook's models
-* Served as Instructional Designer for OER Pilot Project
+* Co-authored [open access resolution](https://library.brockport.edu/oa){:target="_blank"} for Brockport based on MIT and Stony Brook's models
+* Served as Instructional Designer for the OER Pilot Project
 * Redesigned Library website and external sites to fit new campus web design
-* Implemented and configured LibCal to allow students to directly schedule research consultations
-* Collaborated with MoTek to create kiosk splash pages
+* Implemented and configured [LibCal](http://brockport.libcal.com){:target="_blank"} to allow students to directly schedule research consultations
+* Collaborated with MoTek to create [kiosk splash pages](https://brockport.edu/library/kiosk.php){:target="_blank"}
 * Created pilot page to embed library resources into Blackboard resulting in the integration of the LibApps LTI tool into Blackboard
 * Assisted in documentation and library integration with the Blackboard migration
-* Deployed Passkey
+* Deployed [Passkey](http://library.brockport.edu/passkey){:target="_blank"}
 * Maintained and updated library Web page and LibGuides to include Summon
 * Implemented RequestIt! to facilitate holds
-* Implemented WorldCat Discovery Beta
+* Implemented [WorldCat Discovery Beta](http://brockport.on.worldcat.org){:target="_blank"}
 * Created a plan and workflow to transition remaining v1 LibGuides to v2
 * Updated Library Web site to incorporate MachForms
+* Customized Brockport's local version of worldcat.org
+* Updated the LITS Documentation Repository, and re-branded it as LITS Help
+* Implemented a listing of new books on the Library home page
+* Created a script to help circulation staff notify patrons of new items
 
 Developed numerous routing rules and enhancements to ILLiad to improve workflow such as:
-* Implemented IDS Logic's Borrowing Availability Service
+* Implemented IDS Logic's [Borrowing Availability Service](http://rulekit.idsproject.org/BorrowingAvailabilityService.aspx){:target="_blank"}
 * Trace Card form inside ILLiad to facilitate search requests
-* Implemented IDS Logic (Lending automation software)
+* Implemented IDS Logic's [Lending Availability Service](http://rulekit.idsproject.org/docs/IDS-Logic-LAS-Workflow.pdf){:target="_blank"}
 * One-Search Addon to facilitate locating requests through ILLiad
 * Date-picker on ILLiad request forms
 * Customization of ILLiad allowing Order Cards to generated via WorldCat
-* Customized Brockport's local version of worldcat.org
-* Discovery Task Force to recommend Summon for 2014-2015
-* Implemented RequestIt! to streamline hold requests.
-* Updated the LITS Documentation Repository, and re-branded it as LITS Help
-* Implemented a scrolling carousel of new books on the Library home page
-* Maintained and updated tabbed boxes on the web page to facilitate searching
 * Developed numerous routing rules and enhancements to ILLiad to improve workflow
 
 ### IV. Professional Development Activities Related to Librarianship
-* Participate in Faculty Learning Communities (Online Refresh, Technology & Comprehension, Online Learning)
-* Attend Online Teaching Expo through Special Sessions & Programs
-* Attend webinars offered by library product vendors
-* Attend numerous CELT sessions
-* Attend numerous programs at RRLC
-* Participate actively in SUNYLA
-* Attend CIT conferences
-* Attend Learning and the Brain conference
-
+* Participated in Faculty Learning Communities (Online Refresh, Technology & Comprehension, Online Learning)
+* Attended Online Teaching Expo through Special Sessions & Programs
+* Attended webinars offered by library product vendors
+* Attended numerous CELT sessions
+* Attended numerous programs at RRLC
+* Participated actively in SUNYLA
+* Attended CIT conferences
+* Attended Learning and the Brain conference
 
 
 SCHOLARSHIP, RESEARCH AND CREATIVE ACCOMPLISHMENTS
@@ -188,7 +185,6 @@ SUNY Open Educational Resources: Improving Faculty Discovery and Adoption (IITG,
  * Courses completed: Intro to CISL, Intro to Educational Statistics
 
 
-
 COLLEGE, COMMUNITY, AND PROFESSIONAL SERVICE
 --------------------------------------------
 ### I. Departmental service (other than advising)
@@ -201,12 +197,15 @@ Committee Chair, APT (2015-2016)
 Library Webmaster(2013 - Present)
 * Design and coordinate updates to the library Web site
 
+Discovery Task Force to recommend Summon for (2013)
+* Recommended Summon for implementation in 2014-2105
+
 ### II. College service
 Committee Chair, College Senate Faculty & Staff Policies. (July 2017 - May 2018)
 * Chair the College Senate committee concerned with faculty and staff policies
 * By virtue of this position, I also serve on:
-** Enterprise Risk Management Committee
-** Committee on Disability and Access
+ * Enterprise Risk Management Committee
+ * Committee on Disability and Access
 
 Parliamentarian, College Senate. (January 2017 - May 2017; August 2015 - May 2016)
 * Advise College Senate President on matters of parliamentary procedure
