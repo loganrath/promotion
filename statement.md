@@ -2,8 +2,8 @@
 layout: portfolio
 name: Reflective Statement
 ---
-# Reflective Statement
 To the APT Committee:
+
 When I started to put together this portfolio it struck me at just how much has happened and changed since my last successful portfolio in February of 2013. I believe I have completed the necessary steps to merit promotion to Librarian. While reflecting on my librarianship, scholarship, and service I came to the realization that Brockport is a place like no other in that it allows our small staff to accomplish so much in support of our students, faculty and staff, and community. I am truly humbled when looking back at what Drake was like back then.
 
 My librarianship is best evidenced through the relationships I have created with the departments I support on campus. My primary duties have shifted slightly during my time here, but I have always been responsible for instruction with our education department. When Charlie Cowling shifted to the archives, I took on support for the main campus part of our social work program. I have worked hard to learn the unique aspects of librarianship that are pertinent to the discipline of social work, and I now feel confident in offering instruction to that realm. Furthermore, I have continued to build my relationship with the department of Education & Human Development (for whom I am also the ordering liaison). In 2016, I received the Chancellor’s Award for Excellence in Librarianship. The nomination for this award was authored by one of my closest collaborators, Allison Wright, and is included in the appendices of this portfolio.
