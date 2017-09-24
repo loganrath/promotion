@@ -202,10 +202,9 @@ Discovery Task Force to recommend Summon for (2013)
 
 ### II. College service
 Committee Chair, College Senate Faculty & Staff Policies. (July 2017 - May 2018)
-* Chair the College Senate committee concerned with faculty and staff policies
-* By virtue of this position, I also serve on:
- * Enterprise Risk Management Committee
- * Committee on Disability and Access
+* Chair the College Senate committee concerned with faculty and staff policies. By virtue of this position, I also serve on:
+  * Enterprise Risk Management Committee
+  * Committee on Disability and Access
 
 Parliamentarian, College Senate. (January 2017 - May 2017; August 2015 - May 2016)
 * Advise College Senate President on matters of parliamentary procedure
