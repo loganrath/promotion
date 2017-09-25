@@ -217,7 +217,7 @@ Attendee, Meeting, North Campus Revitalization Communications Committee. (Novemb
 
 Committee Member, University Programs & Awards Committee. (September 2015 - Present)
 * Represent Librarian interests on to the SUNY University Faculty Senate Programs & Awards Committee
-* Reviewed COCID applications
+* Reviewed COCID applications and award criteria for Chancellor's Awards for Excellence, Distinguished Professor/Librarian, and SUNY Shared Governance
 
 Program Coordinator, Tools of Engagement Project. (August 1, 2013 - May 30, 2015)
 * Encourage faculty members to explore and complete the Tools of Engagement project located at http://www.suny.edu/toep
