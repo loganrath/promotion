@@ -8,7 +8,7 @@ EFFECTIVE PERFORMANCE IN LIBRARIANSHIP
 ### I. Successful performance of assigned duties with considerable independence, initiative and productivity, contributions to collection building and instructional effectiveness
 
 As Instruction & Reference Librarian:
-* Delivered 400+ information literacy sessions across a variety of disciplines (CRJ, CSC, DCC, EDI, ENG, FCE, GEP, HLP, HON, HST, PAD, PBH, PLS, PRO, SPN, and SWO) as well as to Spencerport HS
+* Delivered 400+ information literacy sessions across a variety of disciplines (CRJ, CSC, DCC, EDI, ENG, FCE, GEP, HLP, HON, HST, PAD, PBH, PLS, PRO, SPN, and SWO) as well as Spencerport HS
 * Created 50+ [asynchronous information literacy experiences](https://brockport.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_1565_1&content_id=_41924_1){:target="_blank"}
 * Served as an embedded librarian into EDI 448/548 (twice) & 671 (three times) with Allison Wright to explore multiple cultural events
 * Flipped instruction offerings to EDI600 starting in 2013
@@ -21,13 +21,13 @@ As Instruction & Reference Librarian:
 * Collaborated with [Lifelong Learning Institute](http://alumni.brockport.edu/s/1549/rd17/interior.aspx?sid=1549&gid=1&pgid=1010){:target="_blank"} to provide training on accounts and Blackboard to a population of learners over 60
 * Collaborated with Online and Hybrid Learning Librarian and Instructional Technologist where appropriate
 * Reached out to ENG302 faculty to include information literacy instruction into the business curriculum
-* Began development of the international business tab of the business research guide.
+* Began development of the international business tab of the business research guide
 * Served as liaison to the departments of Education & Human Development, Modern Languages and Cultures, Psychology, Sociology, and Criminal Justice
 * Served on the reference desk including night and weekend rotations
 
 
 As Assessment Librarian:
-* Provided various assessment support (aggregating data, running reports) to the Online/Hybrid Learning Librarian, Technical Services, the Small Reference Team, and the Instruction Team.
+* Provided various assessment support (aggregating data, running reports) to the Online/Hybrid Learning Librarian, Technical Services, the Small Reference Team, and the Instruction Team
 * Coordinated responses to national surveys (ACRL & IPEDS)
 * Assisting with the annual report form starting with the 2017-2018 academic year
 
@@ -44,7 +44,7 @@ As Resource Sharing Librarian (until 9/2014):
 * Administered [Open SUNY Information Literacy Portal](https://digitalcommons.brockport.edu/opensuny){:target="_blank"}
 * Oversaw the [3Ts conference](https://rrlc.org/event-details/3ts-2016-teaching-technology-applied-engaged-learning/){:target="_blank"} on October 17, 2016
 * Oversaw local arrangements for a one-day conference with local high school and academic librarians on May 24, 2017
-* Prepared and made available online the Middle States Monitoring Report (Fall 2015)
+* Prepared and made available online the Middle States Monitoring Report (fall 2015)
 * Chaired APT (2015-2016)
 * Oversaw [APT bylaws update](http://digitalcommons.brockport.edu/apt/94/){:target="_blank"} (2016)
 * Collaborated with constituents to improve specific sections of the LITS website
@@ -62,12 +62,12 @@ As Resource Sharing Librarian (through 9/2014):
 * Collaborated with Circulation to consolidate billing practices for interlibrary loan
 
 ### III. Creativity in planning and problem solving and ability to handle successfully tasks of increasing responsibility and complexity
-* Developed an asynchronous APA course resulting in a local certificate to support literacy faculty
+* Developed an asynchronous APA course resulting in a local certificate to support literacy faculty and captstone students
 * Delivered [VoiceThread](http://www.voicethread.com){:target="_blank"} training in consultation with the Instructional Technologist to meet campus needs
 * Redesigned several [online modules](https://brockport.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_1565_1&content_id=_41924_1){:target="_blank"} for courses delivered electronically
 * Created APA-compliant videos in support of transitioning Zotero instruction to the online environment
 * Assumed responsibility for supporting the asynchronous courses in the Nursing department
-* Updated accounts materials for Orientation
+* Updated accounts materials for orientation
 * Developed and documented a process for generating more readable room schedules from EMS
 * Collaborated as part of the Instruction Team to recommend a platform to scale information literacy instruction in the online environment
 * Co-authored [open access resolution](https://library.brockport.edu/oa){:target="_blank"} for Brockport based on MIT and Stony Brook's models
@@ -79,12 +79,11 @@ As Resource Sharing Librarian (through 9/2014):
 * Assisted in documentation and library integration with the Blackboard migration
 * Deployed [Passkey](http://library.brockport.edu/passkey){:target="_blank"}
 * Maintained and updated library Web page and LibGuides to include Summon
-* Implemented RequestIt! to facilitate holds
-* Implemented [WorldCat Discovery Beta](http://brockport.on.worldcat.org){:target="_blank"}
+* Implemented RequestIt! to facilitate interlibrary loan in lieu of holds
+* Implemented [WorldCat Discovery Beta](http://brockport.on.worldcat.org){:target="_blank"} and
 * Created a plan and workflow to transition remaining v1 LibGuides to v2
-* Updated Library Web site to incorporate MachForms
-* Customized Brockport's local version of worldcat.org
-* Updated the LITS Documentation Repository, and re-branded it as LITS Help
+* Incorporated MachForms into the Library Web site
+* Updated the LITS Documentation Repository, and re-branded it as LITS Help (removed once Service Now became available)
 * Implemented a listing of new books on the Library home page
 * Created a script to help circulation staff notify patrons of new items
 
@@ -127,6 +126,7 @@ OpenSUNY Information Literacy Portal, (IITG, $20,000)
 > This project will help share locally created and locally curated information literacy content among  SUNY  librarians  and  faculty.  This  project  will  have  two  tiers:  development  of  guidelines  for  the  creation  of  shareable  and  adaptable  information  literacy  content  as  well  as  development  of  a  platform  to  facilitate  locating  and  exchanging  content.  As  an  end  result,  this  project  will  support  instructional endeavors in all modalities, especially online courses provided through Open SUNY.
 
 SUNY Open Educational Resources: Improving Faculty Discovery and Adoption (IITG, $60,000)
+> The purpose of the project is to build on the traditional strengths of SUNY campus libraries by supporting faculty in OER discovery and adoption. The new service model will give faculty access to discovery tools through SUNY Affordable Learning Solutions and Lumen Learning; modularize and improve interoperability and multimedia in the collection of existing Open SUNY textbooks; and embed assessments in OER courses.
 
 
 ### III. Presentations
@@ -155,7 +155,7 @@ SUNY Open Educational Resources: Improving Faculty Discovery and Adoption (IITG,
 <p>Rath, L. T., ILLiad International Conference, "jQuery for ILLiad Web," Atlas Systems, Virginia Beach, VA. (March 17, 2015).</p>
 <p>Rath, L. T., Pearlman, A., Teaching and Learning Day, "TOEP Boot Camp," CELT, Brockport, NY. (January 21, 2015).</p>
 <p><strong>Rath, L. T.</strong> (Presenter &amp; Author), Wright, A. M. (Presenter &amp; Author), Brown Bag, "Embedded Librarians Supporting Student Research," CELT, Brockport, NY. (November 20, 2014).</p>
-<p><strong>Rath, L. T.</strong> (Presenter &amp; Author), Annual Conference, "Information Literacy Portal: Status and Next Steps," SUNYLA, Albany, NY. (June 12, 2014).</p>
+<p><strong>Rath, L. T.</strong> (Presenter &amp; Author), Annual Conference, "Information Literacy Portal: Status and Next Steps," SUNYLA, Albany, NY. (June 12, 2014).</p>
 <p>Rath, L. T., Keegan, K. L., ILLiad International Conference, "Customize your ILLiad 8.4 Printables with an Eye on Information Design," Atlas Systems, Inc., Virginia Beach, VA. (March 18, 2014).</p>
 <p>Rath, L. T., Wilkens, C., Teaching &amp; Learning Day, "Embedding a librarian in your courses.," College at Brockport, CELT, Cooper Hall. (January 22, 2014).</p>
 <p><strong>Rath, L. T.</strong> (Presenter &amp; Author), "Introduction to WordPress," RRLC, Rochester, NY. (December 12, 2013).</p>
