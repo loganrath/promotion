@@ -8,13 +8,13 @@ EFFECTIVE PERFORMANCE IN LIBRARIANSHIP
 ### I. Successful performance of assigned duties with considerable independence, initiative and productivity, contributions to collection building and instructional effectiveness
 
 As Instruction & Reference Librarian:
-* Delivered 400+ information literacy sessions across a variety of disciplines (CRJ, CSC, DCC, EDI, ENG, FCE, GEP, HLP, HON, HST, PAD, PBH, PLS, PRO, SPN, and SWO) as well as Spencerport HS
-* Created 50+ [asynchronous information literacy experiences](https://brockport.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_1565_1&content_id=_41924_1){:target="_blank"}
-* Served as an embedded librarian into EDI 448/548 (twice) & 671 (three times) with Allison Wright to explore multiple cultural events
+* Delivered more than 500 information literacy sessions across a variety of disciplines (CRJ, CSC, DCC, EDI, ENG, FCE, GEP, HLP, HON, HST, PAD, PBH, PLS, PRO, SPN, and SWO) as well as Spencerport HS
+* Created more than 50 [asynchronous information literacy experiences](https://brockport.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_1565_1&content_id=_41924_1){:target="_blank"}
+* Served as an embedded librarian into EDI 448/548 (twice) & 671 (three simes) with Allison Wright to explore multiple cultural events
 * Flipped instruction offerings to EDI600 starting in 2013
 * Infused EDI600 content into multiple courses upon program reconfiguration
 * Mapped information literacy curriculum across undergraduate program in elementary education
-* Performed over 200 one-on-one research consultations with students and faculty in support of courses in ASL, BUS, CSC, CRJ, EDI, FCE, HON, FRN, NUR, PBH, SPN, and SWO
+* Performed over 250 one-on-one research consultations with students and faculty in support of courses in ASL, BUS, CSC, CRJ, EDI, FCE, HON, FRN, NUR, PBH, SPN, and SWO
 * Welcomed the [Teachers of Tomorrow Learning/Living Community](https://www.brockport.edu/life/living_learning_communities/tot.html){:target="_blank"} to Brockport with a library tour annually
 * Created and updated [training materials and workshops](http://library.brockport.edu/zotero){:target="_blank"} for Zotero
 * Collaborated with First-Year Experience to update NetID information available to new students
@@ -22,14 +22,28 @@ As Instruction & Reference Librarian:
 * Collaborated with Online and Hybrid Learning Librarian and Instructional Technologist where appropriate
 * Reached out to ENG302 faculty to include information literacy instruction into the business curriculum
 * Began development of the international business tab of the business research guide
-* Served as liaison to the departments of Education & Human Development, Modern Languages and Cultures, Psychology, Sociology, and Criminal Justice
+* Served as liaison to the departments of Criminal Justice, Education & Human Development, Modern Languages and Cultures, and Public Health and Health Education
 * Served on the reference desk including night and weekend rotations
 
 
+As a member of the FAST team:
+* Led the development of a robust training module for circulation student workers.
+* Oversaw the [Tech Tools collection](https://library.brockport.edu/techtools){:target="_blank"} and cleared the backlog of additions.
+* Served as a back-up to the ILL librarian to keep ILL running during staff absences.
+* Maintained library website and ILLiad.
+
 As Assessment Librarian:
-* Provided various assessment support (aggregating data, running reports) to the Online/Hybrid Learning Librarian, Technical Services, the Small Reference Team, and the Instruction Team
-* Coordinated responses to national surveys (ACRL & IPEDS)
-* Assisting with the annual report form starting with the 2017-2018 academic year
+* Provided various assessment support (aggregating data, running reports) to the Online/Hybrid Learning Librarian, Technical Services, the Small Reference Team, and the Instruction Team.
+* Coordinated responses to national surveys (ACRL & IPEDS).
+* Assisting with the annual report form starting with the 2017-2018 academic year.
+
+
+While on 50% release to ASIS for Fall 2018:
+* Created documentation for hybrid course design
+* Assisted faculty both 1:1 and at Blackboard office hours around campus (Brown, CELT, Hartwell)
+* Helped norm the [Open SUNY Course Quality Review (OSCQR)](https://www.brockport.edu/academics/online/docs/oscqr.pdf){:target="_blank"} rubric for Brockport.
+* Discussed and brainstormed updates to the default course shell to comply with OSCQR.
+* Created documentation for various tools supported by ASIS.
 
 
 As Resource Sharing Librarian (until 9/2014):
@@ -46,7 +60,7 @@ As Resource Sharing Librarian (until 9/2014):
 * Oversaw local arrangements for a one-day conference with local high school and academic librarians on May 24, 2017
 * Prepared and made available online the Middle States Monitoring Report (fall 2015)
 * Chaired APT (2015-2016)
-* Oversaw [APT bylaws update](http://digitalcommons.brockport.edu/apt/94/){:target="_blank"} (2016)
+* Oversaw [2016 APT bylaws update](http://digitalcommons.brockport.edu/apt/94/){:target="_blank"}
 * Collaborated with constituents to improve specific sections of the LITS website
 * Participated in the Collection Evaluation Project
 * Co-planned and supported the transition of Resource Sharing to Susan Perry
@@ -87,6 +101,7 @@ As Resource Sharing Librarian (through 9/2014):
 * Implemented a listing of new books on the Library home page
 * Created a script to help circulation staff notify patrons of new items
 
+
 Developed numerous routing rules and enhancements to ILLiad to improve workflow such as:
 * Implemented IDS Logic's [Borrowing Availability Service](http://rulekit.idsproject.org/BorrowingAvailabilityService.aspx){:target="_blank"}
 * Trace Card form inside ILLiad to facilitate search requests
@@ -95,6 +110,7 @@ Developed numerous routing rules and enhancements to ILLiad to improve workflow 
 * Date-picker on ILLiad request forms
 * Customization of ILLiad allowing Order Cards to generated via WorldCat
 * Developed numerous routing rules and enhancements to ILLiad to improve workflow
+
 
 ### IV. Professional Development Activities Related to Librarianship
 * Participated in Faculty Learning Communities (Online Refresh, Technology & Comprehension, Online Learning)
@@ -111,7 +127,8 @@ SCHOLARSHIP, RESEARCH AND CREATIVE ACCOMPLISHMENTS
 --------------------------------------------------
 
 ### I. Peer-reviewed and adjudicated scholarly and creative products
-<p>Rath, L., &amp; Wright, A. (in press). Student perceptions of embedded library instruction. <em>BRC Advances in Education, 3</em>(1).</p>
+<p>Olmstead, K., Colantonio-Yurko, K., Ashton, J., & Rath, L. (2019). Re-envisioning teacher education: Using DisCrit perspectives to disrupt deficit thinking. <em>Journal of Curriculum, Teaching, Learning and Leadership in Education 4</em>(1). [https://digitalcommons.unomaha.edu/ctlle/vol4/iss1/4]</p>
+<p>Rath, L., &amp; Wright, A. (2018). Student perceptions of embedded library instruction. <em>BRC Advances in Education, 3</em>(1), 47-62 [http://doi.org/10.15239/j.brcadvje.2018.03.01.ja04]</p>
 <p>Rath, L. (2017). Transitioning from face to face to online with USER in mind. In B. West, K. Hoffman, &amp; M. Costello (Eds.). <em>Creative instructional design: Practical application for libraries.</em> Chicago, IL: ACRL.</p>
 <p>Cimbricz, S. &amp; Rath, L. (2016). Empowering learners to become metaliterate in a digital and multimodal age. In T. Mackey &amp; T. Jacobson (Eds.), <em><a href="https://www.alastore.ala.org/detail.aspx?ID=11538" target="_blank" rel="noopener">Metaliteracy in practice</a></em> (pp. 91-112). Chicago, IL: American Library Association.</p>
 <p>Rath, L. &amp; Cimbricz, S. (2015). Collaborating around critical multiliteracies. <em>Behavioral &amp; Social Sciences Librarian 34</em>(2), 47-54 doi:<a href="http://dx.doi.org/10.1080/01639269.2015.1042816" target="_blank" rel="noopener">10.1080/01639269.2015.1042816</a></p>
@@ -119,7 +136,7 @@ SCHOLARSHIP, RESEARCH AND CREATIVE ACCOMPLISHMENTS
 <p>Rath, L. (2013). Development of a knowledge base for incorporating technology in to courses. <em>Journal of Educational Technology Systems 42</em>(2). doi:<a href="http://dx.doi.org/10.2190/ET.42.2.g" target="_blank" rel="noopener">10.2190/ET.42.2.g</a></p>
  
 ### II. Externally-funded projects or grants
-Postsecondary Information Literacy Readiness Assessment using ILAAP (IITG, $20,000)
+Postsecondary Information Literacy Readiness Assessment using ILAAP (IITG, $15,500)
  > This project will adapt the Information Literacy Assessment & Advocacy Project (ILAAP) diagnostic tool for use throughout the SUNY system.  This online assessment will provide student admissions and advising officers with a clearer picture of a student’s information literacy competencies (ILC) as they relate to the Association for College and Research Libraries (ACRL) Framework for Information Literacy for Higher Education, the SUNY-GER, and campus requirements.  The tool will provide the student with an ILC report that includes a series of “next steps for remediation” when they’ve tested deficient in specific competencies.  The project campuses, University at Buffalo, Erie Community College, and The College at Brockport, will work with creators of ILAAP to customize the questionnaire based on institutional needs.  The revised questionnaire will be administered during the fall 2017 semester, revised, re-administered in the spring 2018, and finalized for rollout across SUNY during the summer 2018.  
 
 OpenSUNY Information Literacy Portal, (IITG, $20,000)
@@ -130,6 +147,25 @@ SUNY Open Educational Resources: Improving Faculty Discovery and Adoption (IITG,
 
 
 ### III. Presentations
+<p><strong>Rath, L. T.</strong> (Presenter &amp; Author), &quot;Using Twilio to Provide Text Message Notifications,&quot; IDS Project, Utica College, Utica, NY, United States. (July 26, 2019).</p>
+<p><strong>Rath, L. T.</strong> (Presenter &amp; Author), SUNYLA 2019, &quot;The SUNYLA Instruction Test Kitchen: Framework Edition,&quot; SUNYLA, Finger Lakes Community College, Canandaigua, NY, United States. (June 13, 2018).</p>
+<p>Rath, L. T., SUNY Conference on Instructional Technology, &quot;Digital Interactive Notebooks for Learning Asynchronously,&quot; SUNY Faculty Advisory Council on Teaching and Technology, SUNY Purchase, Purchase, NY, United States. (May 30, 2019).</p>
+<p>Rath, L. T., Kalenda, P. J., Hardenbrook, S. J., SUNY Conference on Instructional Technology, &quot;Captioning Virtual Presentations by Students for Students: Supporting a Classmate's Need,&quot; SUNY Faculty Advisory Council on Teaching and Technology, SUNY Purchase, Purchase, NY, United States. (May 29, 2019).</p>
+<p>Web, H. (Presenter &amp; Author), Rath, L. T. (Presenter Only), IDS Regional user Groups, &quot;Resource Sharing Demo and Hands-On,&quot; IDS Project, Hudson Valley Community College, Troy, NY, United States. (May 23, 2019).</p>
+<p><strong>Rath, L. T.</strong> (Presenter &amp; Author), IDS Regional User Groups, &quot;Managing Patron Services,&quot; IDS Project, Various. (May 10, 2019).</p>
+<p><strong>Rath, L. T.</strong> (Presenter &amp; Author), Alma Fulfillment Training, &quot;FL6: Sets &amp; Jobs,&quot; SUNY Libraries Consortium, Virtual. (May 8, 2019).</p>
+<p><strong>Rath, L. T.</strong> (Presenter &amp; Author), Alma Fulfillment Training, &quot;FL3: Circulation Workflow,&quot; SUNY Libraries Consortium, Virtual. (May 1, 2019).</p>
+<p><strong>Rath, L. T.</strong> (Presenter &amp; Author), Alma Fulfillment Training, &quot;FL2: Item Policies &amp; Locations,&quot; SUNY Libraries Consortium, Virtual. (April 30, 2019).</p>
+<p><strong>Rath, L. T.</strong> (Presenter &amp; Author), Alma Fulfillment Training, &quot;FL1: User Management &amp; Roles,&quot; SUNY Libraries Consortium, Virtual. (April 24, 2019).</p>
+<p><strong>Rath, L. T.</strong> (Presenter &amp; Author), OCLC Resource Sharing Conference, &quot;It Shouldn't Be That Hard: OpenURL to Save Time,&quot; 2019, Jacksonville, FL, United States. (March 20, 2019).</p>
+<p><strong>Rath, L. T.</strong> (Presenter &amp; Author), Colantonio-Yurko, K. C. (Presenter &amp; Author), Academic Libraries 2018, &quot;I Never Knew a Librarian Did That!,&quot; Empire State Library Network, Hotel Ithaca, Ithaca, NY, United States. (October 12, 2018).</p>
+<p>Webb, H. (Presenter &amp; Author), <strong>Rath, L. T.</strong> (Presenter &amp; Author), ExLibris NorthEast User Group, &quot;Practical tips for those daily snags, bumps, joys, and everything in-between,&quot; ExLibris, University at Albany, Albany, NY, United States. (October 12, 2018).</p>
+<p>Olmstead, K., Colantonio-Yurko, K. C., Ashton, J., <strong>Rath, L. T.</strong>, Diversity Conference 2018, The College at Brockport, &quot;Combating Deficit Perspectives.&quot; (September 20, 2018).</p>
+<p><strong>Rath, L. T.</strong> (Presenter &amp; Author), IDS Annual Conference, &quot;Using Educational Theory to Design a Training Program for Alma’s Fulfillment Module but mostly  Circulation,&quot; IDS Project, Utica College, Utica, NY, United States. (July 27, 2018).</p>
+<p><strong>Rath, L. T.</strong>, Tysick, C. (Presenter &amp; Author), De la Rosa, J. (Presenter &amp; Author), SUNYLA 2018, &quot;Postsecondary Information Literacy Readiness Assessment Using ILAAP,&quot; Finger Lakes Community College, Canandaigua, NY, United States. (June 14, 2018).</p>
+<p><strong>Rath, L. T.</strong>, SUNYLA 2018, &quot;The SUNYLA Instruction Test Kitchen: Open Access Edition,&quot; SUNYLA, Finger Lakes Community College, Canandaigua, NY, United States. (June 13, 2018).</p>
+<p><strong>Rath, L. T.</strong>, Geneseo TLC, &quot;Transitioning from Face to Face to Online with USER in Mind,&quot; SUNY Geneseo, Geneseo, NY, United States. (April 13, 2018).</p>
+<p><strong>Rath, L. T.</strong>, Lifelong Learners Spring 2018, &quot;My Brockport Accounts,&quot; The College at Brockport, Brockport, NY, United States. (August 16, 2017).</p>
 <p>Myers, K. H. (Presenter &amp; Author), <strong>Rath, L. T.</strong> (Presenter &amp; Author), Orzech, M. J. (Presenter &amp; Author), CELT, "Open Access- What's It All About and Why Should I Care?," CELT, Brockport, NY. (May 9, 2017).</p>
 <p>Haibach, P. S., Zhang, J., Rath, L. T., Pearlman, A., Olmstead, K., Conference on Conversations on the Disciplinary Challenges in the Age of Hybrid/Blended Courses, "Refreshing online and hybrid teaching through a Faculty Learning Community&rsquo;s collaboration.," Brockport, NY. (April 14, 2017).</p>
 <p>Wright, A. M. (Presenter &amp; Author), <strong>Rath, L. T.</strong> (Presenter &amp; Author), CELT Brown Bag, "Student Perceptions of Embedded Library Instruction," CELT, Brockport, NY. (April 6, 2017).</p>
@@ -173,8 +209,18 @@ SUNY Open Educational Resources: Improving Faculty Discovery and Adoption (IITG,
 * [APA Reference List Rubric for Blackboard](http://digitalcommons.brockport.edu/drakepubs/27/){:target="_blank"}
 * See [Supporting Documents](documentation.html)
 
-### V. Work in Progress
-<p>Olmstead, K. (Co-Principal), <strong>Rath, L. T.</strong> (Co-Principal), Zhang, J. (Co-Investigator), Haibach, P. (Co-Investigator), Pearlman, A. (Co-Investigator), Perreault, M. (Co-Investigator), Seo, J. (Co-Investigator), Breitkopf, M. (Co-Investigator), "Understanding Students’ Experiences, Attitudes and Perceptions of Online Learning Environments."</p>
+### V. Other Scholarly &amp; Creative Work
+#### i. Work in Progress
+<p>Olmstead, K. (Co-Principal), <strong>Rath, L. T.</strong> (Co-Principal), Zhang, J. (Co-Investigator), Haibach, P. (Co-Investigator), Pearlman, A. (Co-Investigator), Perreault, M. (Co-Investigator), Seo, J. (Co-Investigator), Breitkopf, M. (Co-Investigator), "Understanding Students’ Experiences, Attitudes and Perceptions of Online Learning Environments." Submitted to <em>Online Journal of Distance Learning Administration</em></p>
+
+#### ii. Work Submitted
+<p>Colantonio-Yurko, K. C., Kalenda, P. J., Olmstead, K., <strong>Rath, L. T.</strong>, Wright, A. M. I Never Knew a Librarian Did That!: Exploring How Faculty and Librarian Relationships Support Meaningful Collaboration. <em>Journal for New Librarianship</em>.</p>
+
+<p>Gaisser, D. J., Smalls, J., Lawrence, C. F., <strong>Rath, L. T.</strong>, &quot;Global R.E.S.P.E.C.T.,&quot; Sponsored by Sigma, Other, $10,000.00.</p>
+
+#### iii. Work in Progress
+<p>Kalenda, P. J., <strong>Rath, L. T.</strong>, kaseman, j. Captioning Virtual Presentations by Students for Students: Supporting a Classmate's Need. (Writing Results)</p>
+
 
 ### VI. Internal Grants, Publications and Presentations
 <p>Wierzbowski, K. (Co-Principal), <strong>Rath, L. T.</strong> (Co-Principal), "Technology for Mobile Students," Sponsored by Faculty/Staff Technology Support Initiative, The College at Brockport, $3,412.91. (July 1, 2013 - June 30, 2014).</p>
@@ -182,29 +228,42 @@ SUNY Open Educational Resources: Improving Faculty Discovery and Adoption (IITG,
 
 ### VII. Professional Development Related to Scholarship
 * Enrollment in PhD program for Curriculum, Instruction, & the Science of Learning at the University at Buffalo
- * Courses completed: Intro to CISL, Intro to Educational Statistics
+ * 28 credits completed, 3 credits in process
 
 
 COLLEGE, COMMUNITY, AND PROFESSIONAL SERVICE
 --------------------------------------------
 ### I. Departmental service (other than advising)
-Committee Member, Drake Welcome Wagon (2017 - Present)
+Committee Member, Drake Welcome Wagon (2017 - 2017)
 * Convened the first meeting to make Drake a welcoming space for all
 
 Committee Chair, APT (2015-2016)
 * Rewrote bylaws
 
-Library Webmaster(2013 - Present)
+Library Webmaster(2013 - 2019)
 * Design and coordinate updates to the library Web site
 
 Discovery Task Force to recommend Summon for (2013)
 * Recommended Summon for implementation in 2014-2105
 
 ### II. College service
-Committee Chair, College Senate Faculty & Staff Policies. (July 2017 - May 2018)
+Committee Chair, College Senate Faculty & Staff Policies. (July 2017 - Present)
 * Chair the College Senate committee concerned with faculty and staff policies. By virtue of this position, I also serve on:
   * Enterprise Risk Management Committee
   * Committee on Disability and Access
+
+Committee Vice Chair, Committee on Accessibility of the President's Council on Diversity and Equity. (September 2019 - Present); Treasurer (September 2018 - May 2019)
+* Represent Senate and Library interests regarding accessibility
+
+Committee Member, Distinguished Librarian Review Committee. (September 2018 - Present).
+* Review nominations across SUNY. Delivered recommendations for promotion to Distinguished Librarian rank.
+
+Committee Member, College Senate Bylaws Committee. (September 2018 - December 2018).
+* Review and propose bylaw changes for 2019-2021
+* Submitted bylaws changes to Senate Executive Committee for ratification.
+
+Committee Member, Institutional Review Board. (September 2017 - May 2019).
+* Review up to 5 IRB submissions per year and participate in full board review meetings.
 
 Parliamentarian, College Senate. (January 2017 - May 2017; August 2015 - May 2016)
 * Advise College Senate President on matters of parliamentary procedure
@@ -215,7 +274,7 @@ Committee Member, Faculty Roles, Rewards, & Responsibilities. (September 2015 - 
 Attendee, Meeting, North Campus Revitalization Communications Committee. (November 2015 - May 2016)
 * Help with communication efforts with the North Campus Revitalization project. Asked to be on the committee by Beau Willis.
 
-Committee Member, University Programs & Awards Committee. (September 2015 - Present)
+Committee Member, University Programs & Awards Committee. (September 2015 - May 2018)
 * Represent Librarian interests on to the SUNY University Faculty Senate Programs & Awards Committee
 * Reviewed COCID applications and award criteria for Chancellor's Awards for Excellence, Distinguished Professor/Librarian, and SUNY Shared Governance
 
@@ -235,7 +294,10 @@ Committee Member, Developing a SUNY-wide Transliteracy Learning Collaborative to
 ### III. Public and community service (must be related to area of professional expertise)
  
 ### IV. Service to the discipline or profession (work in professional organizations. etc.)
-Committee Chair, SUNYLA Working Group for Information Literacy. (June 2014 - Present)
+Task Force Chair, LSP Training Working Group. (April 2018 - July 2019).
+* Create training and instructional design documentation for those who will be training all of SUNY on Alma and Primo.
+
+Committee Co-Chair, SUNYLA Working Group for Information Literacy. (June 2014 - June 2019)
 * Coordinate activities among instruction librarians across SUNY
 * Resulted in 3Ts conference being at Brockport October 2016
 
@@ -245,7 +307,7 @@ Workshop Organizer, Monroe 2 BOCES. (February 2017 - June 2017)
 Workshop Organizer, SUNYLA Annual Conference. (2013 - Present)
 * Provided registration services.
 
-Mentor, IDS Project. (April 2011 - August 2016)
+Mentor, IDS Project. (April 2011 - August 2016; December 2018 - Present)
 * Worked with several IDS
  
 Delegate, SUNYLA. (March 2014 - June 2016)
@@ -263,8 +325,12 @@ SUNYConnect Liaison, SUNYLA. (June 2010 - June 2013)
 
 FACULTY CONTRIBUTIONS TO COLLEGE DIVERSITY EFFORT
 -------------------------------------------------
+* Served on the Committee for Disability and Access which aims to include all humans in all aspects of campus.
+* Publicized a welcome back message that was inclusive of all returning students.
+* Participated in the LGBTQ+ faculty/staff resource group.
+* Posted the Better Community Statement around the first floor of the Library.
 * Authored and updated the [Women and Gender Studies Libguide](http://library.brockport.edu/gender){:target="_blank"}.
-* Supported our [Summer LEAP](https://www.brockport.edu/support/summer_leap/) program
+* Supported our [Summer LEAP](https://www.brockport.edu/support/summer_leap/) program.
 * Trained as a SafeZones trainer. 
 * Supported the Office of Diversity in answering questions about the library's collection including increasing the number of books involving transgender issues.
 * Work with the McNair scholars over the summer to provide library instruction and research support.
