@@ -147,6 +147,7 @@ SUNY Open Educational Resources: Improving Faculty Discovery and Adoption (IITG,
 
 
 ### III. Presentations
+<p><strong>Rath, L. T.</strong> (Presenter &amp; Author), &quot;Using GitHub Pages to Code Websites with HTML, CCS, and JavaScript&quot;, Tech Camp, Monroe2BOCES. (August 21, 2019).</p>
 <p><strong>Rath, L. T.</strong> (Presenter &amp; Author), &quot;Using Twilio to Provide Text Message Notifications,&quot; IDS Project, Utica College, Utica, NY, United States. (July 26, 2019).</p>
 <p><strong>Rath, L. T.</strong> (Presenter &amp; Author), SUNYLA 2019, &quot;The SUNYLA Instruction Test Kitchen: Framework Edition,&quot; SUNYLA, Finger Lakes Community College, Canandaigua, NY, United States. (June 13, 2018).</p>
 <p>Rath, L. T., SUNY Conference on Instructional Technology, &quot;Digital Interactive Notebooks for Learning Asynchronously,&quot; SUNY Faculty Advisory Council on Teaching and Technology, SUNY Purchase, Purchase, NY, United States. (May 30, 2019).</p>
@@ -210,16 +211,26 @@ SUNY Open Educational Resources: Improving Faculty Discovery and Adoption (IITG,
 * See [Supporting Documents](documentation.html)
 
 ### V. Other Scholarly &amp; Creative Work
-#### i. Work in Progress
-<p>Olmstead, K. (Co-Principal), <strong>Rath, L. T.</strong> (Co-Principal), Zhang, J. (Co-Investigator), Haibach, P. (Co-Investigator), Pearlman, A. (Co-Investigator), Perreault, M. (Co-Investigator), Seo, J. (Co-Investigator), Breitkopf, M. (Co-Investigator), "Understanding Students’ Experiences, Attitudes and Perceptions of Online Learning Environments." Submitted to <em>Online Journal of Distance Learning Administration</em></p>
+#### i. Work Accepted
 
 #### ii. Work Submitted
 <p>Colantonio-Yurko, K. C., Kalenda, P. J., Olmstead, K., <strong>Rath, L. T.</strong>, Wright, A. M. I Never Knew a Librarian Did That!: Exploring How Faculty and Librarian Relationships Support Meaningful Collaboration. <em>Journal for New Librarianship</em>.</p>
 
+<p>Olmstead, K. (Co-Principal), <strong>Rath, L. T.</strong> (Co-Principal), Zhang, J. (Co-Investigator), Haibach, P. (Co-Investigator), Pearlman, A. (Co-Investigator), Perreault, M. (Co-Investigator), Seo, J. (Co-Investigator), Breitkopf, M. (Co-Investigator), "Understanding Students’ Experiences, Attitudes and Perceptions of Online Learning Environments." Submitted to <em>Online Journal of Distance Learning Administration</em></p>
+
+<p>Kalenda, P. J., <strong>Rath, L. T.</strong>, kaseman, j., &quot;Captioning Virtual Presentations by Students for Students: Supporting a Classmate's Need&quot;. Submitted to the <em>International Journal of Distance Education Technologies</em></p>
+
 <p>Gaisser, D. J., Smalls, J., Lawrence, C. F., <strong>Rath, L. T.</strong>, &quot;Global R.E.S.P.E.C.T.,&quot; Sponsored by Sigma, Other, $10,000.00.</p>
 
 #### iii. Work in Progress
-<p>Kalenda, P. J., <strong>Rath, L. T.</strong>, kaseman, j. Captioning Virtual Presentations by Students for Students: Supporting a Classmate's Need. (Writing Results)</p>
+<p><strong>Rath, L. T.</strong>, &quot;Analyzing the ACRL Framework using New Literacy Studies&quot; (May 2018 - Present)</p>
+This paper analyzes the ACRL Framework for Information Literacy in Higher Education using the lens of New Literacies Studies.
+
+<p><strong>Rath, L.T.</strong>, "An Analysis of Custom Holdings Groups, Paths, and Groups Maintenance" (Writing Results). (April 2019 - Present).</p>
+This study examines the frequency to which interlibrary loan practicioners administer certain features of the ILLiad or WorldShare ILL software programs.
+
+<p>Gaisser, D. J., Smalls, J., Lawrence, C. F., <strong>Rath, L. T.</strong>, "Global R.E.S.P.E.C.T. Pilot 1" (On-Going). (January 2019 - Present).</p>
+The Purpose of this pilot study is to explore the effects of cinema education as a global teaching strategy to alleviate incivility in the nursing profession.
 
 
 ### VI. Internal Grants, Publications and Presentations
@@ -227,8 +238,8 @@ SUNY Open Educational Resources: Improving Faculty Discovery and Adoption (IITG,
 <p>Myers, K. H. (Co-Principal), <strong>Rath, L. T.</strong> (Co-Principal), "F/S Technology Initiative Grant," Sponsored by College Technology Council and CELT, The College at Brockport, $4,995.00. (July 1, 2013 - Present).</p>
 
 ### VII. Professional Development Related to Scholarship
-* Enrollment in PhD program for Curriculum, Instruction, & the Science of Learning at the University at Buffalo
- * 28 credits completed, 3 credits in process
+* Enrollment in PhD program for Curriculum, Instruction, &amp; the Science of Learning at the University at Buffalo
+  * 28 credits completed, 3 credits in process
 
 
 COLLEGE, COMMUNITY, AND PROFESSIONAL SERVICE
