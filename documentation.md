@@ -13,7 +13,7 @@ title: Supporting Documentation
 * [Library Notes Page](/uploads/artifact_LibraryNotes.pdf){:target="_blank"}
 
 ### Scholarship
-* [Digital Commons Author Dashboard Summary](/uploads/artifact_bepress.pdf){:target="_blank"}
+* [Digital Commons Author Dashboard Summary](https://readership.works.bepress.com/?dashboardToken=5d870e79f98a3e3577f2cecdbgGwxFtlUlzxgLHbinWfOR2j7ZFys29n8mnfc7Qr){:target="_blank"}
 
 ### Scripts & Coding
 * [Summon Requests](/uploads/artifact_sRequest.txt){:target="_blank"}
