@@ -2,7 +2,7 @@
 
 body {
   margin:0px; background-color:lightgray; 
-  font-family: Garamond, Georgia, "Times New Roman", Times, serif; font-size:14pt;
+  font-family: "PT Serif", Garamond, Georgia, "Times New Roman", Times, serif; font-size:14pt;
 }
 
 div#content {margin-left: auto; margin-right: auto; background-color: white; width: 80%;}
