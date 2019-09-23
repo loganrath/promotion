@@ -3,8 +3,8 @@ layout: portfolio
 title: Letters of Support
 ---
 
-Faculty Letters
-----------------
+### Faculty Letters
+
 
 [Dr. Kate Colantonio-Yurko, Education & Human Development](/uploads/letter_Yurko.pdf){:target="_blank"}
 
@@ -23,8 +23,8 @@ Faculty Letters
 [Dr. Ingrid McGuffog, Department of Criminal Justice](/uploads/letter_McGuffog.pdf){:target="_blank"}
 
 
-Student Letters
----------------
+### Student Letters
+
 [Ms. Alyson Tardy, student](/uploads/letter_Tardy.pdf){:target="_blank"}
 
 [Ms. Lucky Light, student](/uploads/letter_Light.pdf){:target="_blank"}
