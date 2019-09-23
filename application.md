@@ -336,8 +336,8 @@ SUNYConnect Liaison, SUNYLA. (June 2010 - June 2013)
 
 FACULTY CONTRIBUTIONS TO COLLEGE DIVERSITY EFFORT
 -------------------------------------------------
-* Attending SafeZones training.
-* Served on the Committee for Disability and Access which aims to include all humans in all aspects of campus.
+* Serve on the Committee for Disability and Access which aims to include all humans in all aspects of campus.
+* Attended SafeZone training.
 * Publicized a welcome back message that was inclusive of all returning students.
 * Participated in the LGBTQ+ faculty/staff resource group.
 * Posted the Better Community Statement around the first floor of the Library.
