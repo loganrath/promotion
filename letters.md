@@ -25,8 +25,7 @@ title: Letters of Support
 [Dr. Ingrid McGuffog, Department of Criminal Justice](/uploads/letter_McGuffog.pdf){:target="_blank"}
 
 
-Colleague Letters
-------------------
+### Colleague Letters
 [Ms. Linda Hacker](/uploads/letter_Hacker.pdf)
 
 [Ms. Dana Laird](/uploads/letter_Laird.pdf)
@@ -36,8 +35,7 @@ Colleague Letters
 [Ms. Kristen Wallis](/uploads/letter_Wallis.pdf)
 
 
-Student Letters
-----------------
+### Student Letters
 [Ms. Alyson Tardy, student](/uploads/letter_Tardy.pdf){:target="_blank"}
 
 [Ms. Lucky Light, student](/uploads/letter_Light.pdf){:target="_blank"}
