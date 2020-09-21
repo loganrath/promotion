@@ -214,17 +214,18 @@ SUNY Open Educational Resources: Improving Faculty Discovery and Adoption (IITG,
 #### i. Work Accepted
 
 #### ii. Work Submitted
-<p>Colantonio-Yurko, K. C., Kalenda, P. J., Olmstead, K., <strong>Rath, L. T.</strong>, Wright, A. M. I Never Knew a Librarian Did That!: Exploring How Faculty and Librarian Relationships Support Meaningful Collaboration. <em>Journal for New Librarianship</em>.</p>
+<p>Colantonio-Yurko, K. C., Kalenda, P. J., Olmstead, K., <strong>Rath, L. T.</strong>, Wright, A. M. &quot;I Never Knew a Librarian Did That!: Exploring How Faculty and Librarian Relationships Support Meaningful Collaboration.&quot; <em>Journal for New Librarianship</em>.</p>
 
 <p>Olmstead, K. (Co-Principal), <strong>Rath, L. T.</strong> (Co-Principal), Zhang, J. (Co-Investigator), Haibach, P. (Co-Investigator), Pearlman, A. (Co-Investigator), Perreault, M. (Co-Investigator), Seo, J. (Co-Investigator), Breitkopf, M. (Co-Investigator), "Understanding Students’ Experiences, Attitudes and Perceptions of Online Learning Environments." Submitted to <em>Online Journal of Distance Learning Administration</em></p>
-
-<p>Kalenda, P. J., <strong>Rath, L. T.</strong>, kaseman, j., &quot;Captioning Virtual Presentations by Students for Students: Supporting a Classmate's Need&quot;. Submitted to the <em>International Journal of Distance Education Technologies</em></p>
 
 <p>Gaisser, D. J., Smalls, J., Lawrence, C. F., <strong>Rath, L. T.</strong>, &quot;Global R.E.S.P.E.C.T.,&quot; Sponsored by Sigma, Other, $10,000.00.</p>
 
 #### iii. Work in Progress
 <p><strong>Rath, L. T.</strong>, &quot;Analyzing the ACRL Framework using New Literacy Studies&quot; (May 2018 - Present)</p>
 This paper analyzes the ACRL Framework for Information Literacy in Higher Education using the lens of New Literacies Studies.
+
+<p>Kalenda, P. J., <strong>Rath, L. T.</strong>, kaseman, j., &quot;Captioning Virtual Presentations by Students for Students: Supporting a Classmate's Need&quot;. Submitted to the <em>International Journal of Distance Education Technologies</em></p>
+This paper describes how a professor and a librarian worked together to teach students the importance of captioning to meet the needs of a student who identifies as part of the deaf/hard of hearing community (and is third author).
 
 <p><strong>Rath, L.T.</strong>, "An Analysis of Custom Holdings Groups, Paths, and Groups Maintenance" (Writing Results). (April 2019 - Present).</p>
 This study examines the frequency to which interlibrary loan practicioners administer certain features of the ILLiad or WorldShare ILL software programs.
@@ -336,8 +337,8 @@ SUNYConnect Liaison, SUNYLA. (June 2010 - June 2013)
 
 FACULTY CONTRIBUTIONS TO COLLEGE DIVERSITY EFFORT
 -------------------------------------------------
-* Attending SafeZones training.
-* Served on the Committee for Disability and Access which aims to include all humans in all aspects of campus.
+* Serve on the Committee for Disability and Access which aims to include all humans in all aspects of campus.
+* Attended SafeZone training.
 * Publicized a welcome back message that was inclusive of all returning students.
 * Participated in the LGBTQ+ faculty/staff resource group.
 * Posted the Better Community Statement around the first floor of the Library.
