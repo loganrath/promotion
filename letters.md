@@ -6,6 +6,8 @@ title: Letters of Support
 Faculty Letters
 ----------------
 
+[Dr. Kathleen Olmstead, Education & Human Development](/uploads/letter_Olmstead.pdf)
+
 [Dr. Kate Colantonio-Yurko, Education & Human Development](/uploads/letter_Yurko.pdf){:target="_blank"}
 
 [Dr. Jason Dauenhauer, Department of Social Work](/uploads/letter_Dauenhauer.pdf){:target="_blank"}
@@ -21,6 +23,17 @@ Faculty Letters
 [Dr. Sue Robb, Associate Dean for Education, Health, & Human Services](/uploads/letter_Robb.pdf){:target="_blank"}
 
 [Dr. Ingrid McGuffog, Department of Criminal Justice](/uploads/letter_McGuffog.pdf){:target="_blank"}
+
+
+Colleague Letters
+------------------
+[Ms. Linda Hacker](/uploads/letter_Hacker.pdf)
+
+[Ms. Dana Laird](/uploads/letter_Laird.pdf)
+
+[Dr. Mary Jo Orzech](/uploads/letter_Orzech.pdf)
+
+[Ms. Kristen Wallis](/uploads/letter_Wallis.pdf)
 
 
 Student Letters
