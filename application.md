@@ -8,13 +8,13 @@ EFFECTIVE PERFORMANCE IN LIBRARIANSHIP
 ### I. Successful performance of assigned duties with considerable independence, initiative and productivity, contributions to collection building and instructional effectiveness
 
 As Instruction & Reference Librarian:
-* Delivered more than 500 information literacy sessions across a variety of disciplines (CRJ, CSC, DCC, EDI, ENG, FCE, GEP, HLP, HON, HST, PAD, PBH, PLS, PRO, SPN, and SWO) as well as Spencerport HS
-* Created more than 50 [asynchronous information literacy experiences](https://brockport.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_1565_1&content_id=_41924_1){:target="_blank"}
+* Delivered more than 600 information literacy sessions across a variety of disciplines (CRJ, CSC, DCC, EDI, ENG, FCE, GEP, HLP, HON, HST, PAD, PBH, PLS, PRO, SPN, and SWO) as well as Spencerport HS
+* Created more than 60 [asynchronous information literacy experiences](https://brockport.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_1565_1&content_id=_41924_1){:target="_blank"}
 * Served as an embedded librarian into EDI 448/548 (twice) & 671 (three simes) with Allison Wright to explore multiple cultural events
 * Flipped instruction offerings to EDI600 starting in 2013
 * Infused EDI600 content into multiple courses upon program reconfiguration
 * Mapped information literacy curriculum across undergraduate program in elementary education
-* Performed over 250 one-on-one research consultations with students and faculty in support of courses in ASL, BUS, CSC, CRJ, EDI, FCE, HON, FRN, NUR, PBH, SPN, and SWO
+* Performed over 270 one-on-one research consultations with students and faculty in support of courses in ASL, BUS, CSC, CRJ, EDI, FCE, HON, FRN, NUR, PBH, SPN, and SWO
 * Welcomed the [Teachers of Tomorrow Learning/Living Community](https://www.brockport.edu/life/living_learning_communities/tot.html){:target="_blank"} to Brockport with a library tour annually
 * Created and updated [training materials and workshops](http://library.brockport.edu/zotero){:target="_blank"} for Zotero
 * Collaborated with First-Year Experience to update NetID information available to new students
@@ -53,6 +53,7 @@ As Resource Sharing Librarian (until 9/2014):
 
 
 ### II. Supervisory and administrative ability
+* Facilitated the Instruction Team and creation of our new [Information Literacy Program](https://library.brockport.edu/infolit){:target='_blank'}
 * Maintained several library systems ([Springshare products](http://library.brockport.edu){:target="_blank"}, venue management in [EMS](http://emsweb.brockport.edu/VirtualEMS/){:target="_blank"}, & [Library website](https://brockport.edu/library){:target="_blank"}
 * Oversaw a redesign for integration with Blackboard through the [LibApps LTI tool](https://library.brockport.edu/faculty-support/blackboard){:target="_blank"}
 * Administered [Open SUNY Information Literacy Portal](https://digitalcommons.brockport.edu/opensuny){:target="_blank"}
