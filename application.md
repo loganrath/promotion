@@ -150,11 +150,11 @@ SUNY Open Educational Resources: Improving Faculty Discovery and Adoption (IITG,
 
 
 ### III. Presentations
-<p><strong>Rath, L. T.</strong>, ALISE</p>
+<p><strong>Rath, L. T.</strong>, ALISE 2020: Transforming LIS Education in an Interconnected World, "Transforming Information Literacy Education: Information Literacy Landscapes," Association of Library and Information Science Education, Online. (October ) </p>
 <p><strong>Rath, L. T.</strong>, ASIST poster</p>
 <p><strong>Rath, L. T.</strong>, Kegler, J. L., Hacker, L., SUNYLA 2020  The Heart of the Campus: Accessible, Inclusive, & Inspiring Libraries, "Learning from Our Students: Qualitative Analysis of Feedbacak Forms," SUNYLA, Online. (June 18, 2020).</p>
-<p>Rath, L. T.</strong>, Murillo, N., SUNYLA 2020, "Are they learning? Information Literacy Assessment in the Library Classroom," SUNYLA, Online. (June 16, 2020).</p>
-<p>Rath, L. T.</strong>, CAIS 2020 [Cancelled due to COIVD-19], "Librarians’ Perceptions of Information Literacy as a Social Practice," Canadian Association of Information Science, Western University, London, Ontario, Canada. (June 1, 2020).></p>
+<p><strong>Rath, L. T.</strong>, Murillo, N., SUNYLA 2020, "Are they learning? Information Literacy Assessment in the Library Classroom," SUNYLA, Online. (June 16, 2020).</p>
+<p><strong>Rath, L. T.</strong>, CAIS 2020 [Cancelled due to COIVD-19], "Librarians’ Perceptions of Information Literacy as a Social Practice," Canadian Association of Information Science, Western University, London, Ontario, Canada. (June 1, 2020).></p>
 <p><strong>Rath, L. T.</strong>, SUNY Remote Teaching Clinic, "Groupwork in Online/Asynchronous Courses," SUNY Center for Professional Development. (April 2, 2020).</p>
 <p>Gaisser, D. J. (Presenter & Author), Smalls, J. (Presenter & Author), Lawrence, C. F. (Presenter & Author),<strong>Rath, L. T.</strong> (Author Only), Faculty of Nursing and Midwifery 39th Annual International Nursing & Midwifery Research and Education Conference, "Triangulation of a Series of Research on Incivility in Nursing," Royal College of Surgeons in Ireland, RCSI campus- St. Stephen's Green, Dublin, Ireland. (February 27, 2020).</p>
 <p>Gaisser, D. J. (Presenter & Author), Smalls, J. (Presenter & Author), Lawrence, C. F. (Presenter & Author), <strong>Rath, L. T.</strong> (Author Only), Faculty of Nursing and Midwifery 39th Annual International Nursing & Midwifery Research and Education Conference, "Workplace Incivility: A Quasi- Experimental, Quantitative Study Using a Pre-test/Post-test Design with a Cinematic Educational Intervention," Royal College of Surgeons in Ireland, RCSI Campus- St Stephen's Green, Dubin, Ireland. (February 27, 2020).</p>
