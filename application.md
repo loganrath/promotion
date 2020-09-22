@@ -152,6 +152,7 @@ SUNY Open Educational Resources: Improving Faculty Discovery and Adoption (IITG,
 
 
 ### III. Presentations
+<p>Olmstead, K., <strong>Rath, L. T.</strong>, Zhang, J., Beach, P. S., The 2020 Teaching and Learning Day at The College at Brockport State University of New York, &quot;Hearing Brockport students’ voices: Understanding student perspectives of online learning,&quot; SUNY Brockport, Brockport, NJ, United States. (January 15, 2020).</p>
 <p><strong>Rath, L. T.</strong> (Presenter &amp; Author), &quot;Using GitHub Pages to Code Websites with HTML, CCS, and JavaScript&quot;, Tech Camp, Monroe2BOCES. (August 21, 2019).</p>
 <p><strong>Rath, L. T.</strong> (Presenter &amp; Author), &quot;Using Twilio to Provide Text Message Notifications,&quot; IDS Project, Utica College, Utica, NY, United States. (July 26, 2019).</p>
 <p><strong>Rath, L. T.</strong> (Presenter &amp; Author), SUNYLA 2019, &quot;The SUNYLA Instruction Test Kitchen: Framework Edition,&quot; SUNYLA, Finger Lakes Community College, Canandaigua, NY, United States. (June 13, 2018).</p>
