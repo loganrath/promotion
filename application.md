@@ -239,7 +239,6 @@ This paper analyzes the ACRL Framework for Information Literacy in Higher Educat
 <p>Kalenda, P. J., <strong>Rath, L. T.</strong>, kaseman, j., &quot;Captioning Virtual Presentations by Students for Students: Supporting a Classmate's Need&quot;. Submitted to the <em>International Journal of Distance Education Technologies</em></p>
 This paper describes how a professor and a librarian worked together to teach students the importance of captioning to meet the needs of a student who identifies as part of the deaf/hard of hearing community (and is third author).
 
-
 ### VI. Internal Grants, Publications and Presentations
 <p>Wierzbowski, K. (Co-Principal), <strong>Rath, L. T.</strong> (Co-Principal), "Technology for Mobile Students," Sponsored by Faculty/Staff Technology Support Initiative, The College at Brockport, $3,412.91. (July 1, 2013 - June 30, 2014).</p>
 <p>Myers, K. H. (Co-Principal), <strong>Rath, L. T.</strong> (Co-Principal), "F/S Technology Initiative Grant," Sponsored by College Technology Council and CELT, The College at Brockport, $4,995.00. (July 1, 2013 - Present).</p>
