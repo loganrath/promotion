@@ -4,7 +4,8 @@ title: Supporting Documentation
 ---
 
 ### Instructional Materials
-* [Selected Lesson Plans](https://drive.google.com/drive/folders/0Bw9xytWyXu-8Q2Jrbi1jSHJiTm8?usp=sharing){:target="_blank"}
+* [Selected Lesson Plans](ttps://brockportsuny-my.sharepoint.com/:f:/g/personal/lrath_brockport_edu/Es-29HnKgPRLmMMCdTxK5XMBTdE1-3ZC2lOlIJRzuFo1kg?e=b5gxQB){:target="_blank"}
+* [Selected Online Modules](https://brockport.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_1565_1&content_id=_41924_1){:target="_blank"}
 * [APA & Writing Worksheet](/uploads/artifact_APAWriting.pdf){:target="_blank"}
 * [Concept Map](/uploads/artifact_ConceptMap.pdf){:target="_blank"}
 * [Database Tips & Tricks](/uploads/artifact_Boolean.pdf){:target="_blank"}
@@ -13,7 +14,8 @@ title: Supporting Documentation
 * [Library Notes Page](/uploads/artifact_LibraryNotes.pdf){:target="_blank"}
 
 ### Scholarship
-* [Digital Commons Author Dashboard Summary](https://readership.works.bepress.com/?dashboardToken=5d870e79f98a3e3577f2cecdbgGwxFtlUlzxgLHbinWfOR2j7ZFys29n8mnfc7Qr){:target="_blank"}
+* [Digital Commons Author Dashboard Summary](https://readership.works.bepress.com/?dashboardToken=5f6a6c811019e674f1702400XduoMrnDxyq3EYqzQ5IRAZR8ELFXRv6STog5bFNY
+){:target="_blank"}
 
 ### Scripts & Coding
 * [Summon Requests](/uploads/artifact_sRequest.txt){:target="_blank"}
