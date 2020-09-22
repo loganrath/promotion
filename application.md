@@ -150,8 +150,8 @@ SUNY Open Educational Resources: Improving Faculty Discovery and Adoption (IITG,
 
 
 ### III. Presentations
-<p><strong>Rath, L. T.</strong>, ALISE 2020: Transforming LIS Education in an Interconnected World, "Transforming Information Literacy Education: Information Literacy Landscapes," Association of Library and Information Science Education, Online. (October ) </p>
-<p><strong>Rath, L. T.</strong>, ASIST poster</p>
+<p><strong>Rath, L. T.</strong>, ALISE 2020: Transforming LIS Education in an Interconnected World, "Transforming Information Literacy Education: Information Literacy Landscapes," Association of Library and Information Science Education, Online. (October 28, 2020).</p>
+<p><strong>Rath, L. T.</strong>, 83rd Annual Meeting of the Association for Information Science and Technology - Information for a Sustainable World: Addressing Society’s Grand Challenges, "Transforming Information Literacy Understandings: Sustainable Futures Through Information Landscapes" [Poster], ASIS&T, Online. (October 22, 2020).</p>
 <p><strong>Rath, L. T.</strong>, Kegler, J. L., Hacker, L., SUNYLA 2020  The Heart of the Campus: Accessible, Inclusive, & Inspiring Libraries, "Learning from Our Students: Qualitative Analysis of Feedbacak Forms," SUNYLA, Online. (June 18, 2020).</p>
 <p><strong>Rath, L. T.</strong>, Murillo, N., SUNYLA 2020, "Are they learning? Information Literacy Assessment in the Library Classroom," SUNYLA, Online. (June 16, 2020).</p>
 <p><strong>Rath, L. T.</strong>, CAIS 2020 [Cancelled due to COIVD-19], "Librarians’ Perceptions of Information Literacy as a Social Practice," Canadian Association of Information Science, Western University, London, Ontario, Canada. (June 1, 2020).></p>
