@@ -8,8 +8,8 @@ EFFECTIVE PERFORMANCE IN LIBRARIANSHIP
 ### I. Successful performance of assigned duties with considerable independence, initiative and productivity, contributions to collection building and instructional effectiveness
 
 As Instruction & Reference Librarian:
-* Delivered more than 600 information literacy sessions across a variety of disciplines (CRJ, CSC, DCC, EDI, ENG, FCE, GEP, HLP, HON, HST, PAD, PBH, PLS, PRO, SPN, and SWO) as well as Spencerport HS
-* Created more than 60 [asynchronous information literacy experiences](https://brockport.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_1565_1&content_id=_41924_1){:target="_blank"}
+* Delivered more than 600 information literacy sessions across a variety of disciplines (CRJ, CSC, DCC, EDI, ENG, FCE, GEP, HLP, HON, HST, PAD, PBH, PLS, PRO, SPN, and SWO) as well as Spencerport HS - [selected materials](https://brockportsuny-my.sharepoint.com/:f:/g/personal/lrath_brockport_edu/Es-29HnKgPRLmMMCdTxK5XMBTdE1-3ZC2lOlIJRzuFo1kg?e=b5gxQB){:target="_blank"}
+* Created more than 60 asynchronous information literacy experiences - [selected materials](https://brockport.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_1565_1&content_id=_41924_1){:target="_blank"}
 * Served as an embedded librarian into EDI 448/548 (twice) & 671 (three simes) with Allison Wright to explore multiple cultural events
 * Flipped instruction offerings to EDI600 starting in 2013
 * Infused EDI600 content into multiple courses upon program reconfiguration
@@ -77,11 +77,10 @@ As Resource Sharing Librarian (through 9/2014):
 * Collaborated with Circulation to consolidate billing practices for interlibrary loan
 
 ### III. Creativity in planning and problem solving and ability to handle successfully tasks of increasing responsibility and complexity
-* Developed an asynchronous APA course resulting in a local certificate to support literacy faculty and captstone students
+* Developed an asynchronous APA course resulting in a local certificate in collaboration with the Academic Success Center and instruction team
 * Delivered [VoiceThread](http://www.voicethread.com){:target="_blank"} training in consultation with the Instructional Technologist to meet campus needs
 * Redesigned several [online modules](https://brockport.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_1565_1&content_id=_41924_1){:target="_blank"} for courses delivered electronically
 * Created APA-compliant videos in support of transitioning Zotero instruction to the online environment
-* Assumed responsibility for supporting the asynchronous courses in the Nursing department
 * Updated accounts materials for orientation
 * Developed and documented a process for generating more readable room schedules from EMS
 * Collaborated as part of the Instruction Team to recommend a platform to scale information literacy instruction in the online environment
@@ -114,6 +113,7 @@ Developed numerous routing rules and enhancements to ILLiad to improve workflow 
 
 
 ### IV. Professional Development Activities Related to Librarianship
+* Attended several conferences (SUNYLA, SUNY CIT, LOEX)
 * Participated in Faculty Learning Communities (Online Refresh, Technology & Comprehension, Online Learning)
 * Attended Online Teaching Expo through Special Sessions & Programs
 * Attended webinars offered by library product vendors
@@ -128,6 +128,8 @@ SCHOLARSHIP, RESEARCH AND CREATIVE ACCOMPLISHMENTS
 --------------------------------------------------
 
 ### I. Peer-reviewed and adjudicated scholarly and creative products
+<p>Olmstead, K., Colantonio-Yurko, K., Jackson, T., Jackson, J., & Rath, L. (2020). “I just have so many ideas!”: Celebrating teachers’ meaningful literacy practices in a time of mandated curriculum. <em>Journal of Literacy Innovation, 5</em>(1), 24-36.</p>
+<p>Colantonio-Yurko, K., Kalenda, P., Olmstead, K., Rath, L., & Wright, A. (2020). I never knew a librarian did that! Exploring how faculty and librarian relationships support meaningful collaboration. <em>Journal of New Librarianship, 5</em>, 25-44. <a target="_blank" href="https://doi.org/10.21173/newlibs/9/2">https://doi.org/10.21173/newlibs/9/2</a></p>
 <p>Olmstead, K., Colantonio-Yurko, K., Ashton, J., & <strong>Rath, L.</strong> (2019). Re-envisioning teacher education: Using DisCrit perspectives to disrupt deficit thinking. <em>Journal of Curriculum, Teaching, Learning and Leadership in Education 4</em>(1). <a href="https://digitalcommons.unomaha.edu/ctlle/vol4/iss1/4" target="_blank">https://digitalcommons.unomaha.edu/ctlle/vol4/iss1/4</a></p>
 <p><strong>Rath, L.</strong>, &amp; Wright, A. (2018). Student perceptions of embedded library instruction. <em>BRC Advances in Education, 3</em>(1), 47-62 <a href="http://doi.org/10.15239/j.brcadvje.2018.03.01.ja04" target="_blank">http://doi.org/10.15239/j.brcadvje.2018.03.01.ja04</a></p>
 <p><strong>Rath, L.</strong> (2017). Transitioning from face to face to online with USER in mind. In B. West, K. Hoffman, &amp; M. Costello (Eds.). <em>Creative instructional design: Practical application for libraries.</em> Chicago, IL: ACRL.</p>
@@ -148,6 +150,16 @@ SUNY Open Educational Resources: Improving Faculty Discovery and Adoption (IITG,
 
 
 ### III. Presentations
+<p><strong>Rath, L. T.</strong>, ALISE</p>
+<p><strong>Rath, L. T.</strong>, ASIST poster</p>
+<p><strong>Rath, L. T.</strong>, Kegler, J. L., Hacker, L., SUNYLA 2020  The Heart of the Campus: Accessible, Inclusive, & Inspiring Libraries, "Learning from Our Students: Qualitative Analysis of Feedbacak Forms," SUNYLA, Online. (June 18, 2020).</p>
+<p>Rath, L. T.</strong>, Murillo, N., SUNYLA 2020, "Are they learning? Information Literacy Assessment in the Library Classroom," SUNYLA, Online. (June 16, 2020).</p>
+<p>Rath, L. T.</strong>, CAIS 2020 [Cancelled due to COIVD-19], "Librarians’ Perceptions of Information Literacy as a Social Practice," Canadian Association of Information Science, Western University, London, Ontario, Canada. (June 1, 2020).></p>
+<p><strong>Rath, L. T.</strong>, SUNY Remote Teaching Clinic, "Groupwork in Online/Asynchronous Courses," SUNY Center for Professional Development. (April 2, 2020).</p>
+<p>Gaisser, D. J. (Presenter & Author), Smalls, J. (Presenter & Author), Lawrence, C. F. (Presenter & Author),<strong>Rath, L. T.</strong> (Author Only), Faculty of Nursing and Midwifery 39th Annual International Nursing & Midwifery Research and Education Conference, "Triangulation of a Series of Research on Incivility in Nursing," Royal College of Surgeons in Ireland, RCSI campus- St. Stephen's Green, Dublin, Ireland. (February 27, 2020).</p>
+<p>Gaisser, D. J. (Presenter & Author), Smalls, J. (Presenter & Author), Lawrence, C. F. (Presenter & Author), <strong>Rath, L. T.</strong> (Author Only), Faculty of Nursing and Midwifery 39th Annual International Nursing & Midwifery Research and Education Conference, "Workplace Incivility: A Quasi- Experimental, Quantitative Study Using a Pre-test/Post-test Design with a Cinematic Educational Intervention," Royal College of Surgeons in Ireland, RCSI Campus- St Stephen's Green, Dubin, Ireland. (February 27, 2020).</p>
+<p>Gaisser, D. J. (Presenter & Author), Lawrence, C. F. (Presenter & Author), Smalls, J. (Presenter & Author), <strong>Rath, L. T.</strong> (Author Only), HSE 2nd Annual Anti-Bullying Symposium: From AB to C--From Anti-Bullying to Civility, "Global R.E.S.P.E.C.T: Civility in Healthcare," Health Service Executive, Printworks, Dublin Castle, Dublin, Ireland. (February 25, 2020).<p>
+<p>Olmstead, K., <strong>Rath, L. T.</strong>, Zhang, J., Beach, P. S., The 2020 Teaching and Learning Day at The College at Brockport State University of New York, "Hearing Brockport students’ voices: Understanding student perspectives of online learning," SUNY Brockport, Brockport, NJ, United States. (January 15, 2020).</p>
 <p><strong>Rath, L. T.</strong> (Presenter &amp; Author), &quot;Using GitHub Pages to Code Websites with HTML, CCS, and JavaScript&quot;, Tech Camp, Monroe2BOCES. (August 21, 2019).</p>
 <p><strong>Rath, L. T.</strong> (Presenter &amp; Author), &quot;Using Twilio to Provide Text Message Notifications,&quot; IDS Project, Utica College, Utica, NY, United States. (July 26, 2019).</p>
 <p><strong>Rath, L. T.</strong> (Presenter &amp; Author), SUNYLA 2019, &quot;The SUNYLA Instruction Test Kitchen: Framework Edition,&quot; SUNYLA, Finger Lakes Community College, Canandaigua, NY, United States. (June 13, 2018).</p>
@@ -206,6 +218,8 @@ SUNY Open Educational Resources: Improving Faculty Discovery and Adoption (IITG,
 <p>Toth, G. M. (Presenter &amp; Author), Kegler, J. L. (Presenter &amp; Author), <strong>Rath, L. T.</strong> (Presenter &amp; Author), Center for Excellence in Learning and Teaching (CELT) Brown Bag Discussion, ""Google for Faculty"," CELT, College at Brockport, Brockport, NY. (February 15, 2013).</p>
 
 ### IV. Non peer-reviewed or adjudicated scholarly and creative products.
+<p>Kalenda, P., Rath, L., & Glor, H. (2020). Breaking the mold: Using 3D printers to support take-home science activities. <em>Teacher Librarian 47</em>(5), 29-36.</p>
+
 * [Research Guides](http://library.brockport.edu/prf.php?account_id=456){:target="_blank"}
 * [My Brockport Accounts chart](/uploads/artifact_Accounts.pdf){:target="_blank"}
 * [APA Reference List Rubric for Blackboard](http://digitalcommons.brockport.edu/drakepubs/27/){:target="_blank"}
@@ -215,11 +229,7 @@ SUNY Open Educational Resources: Improving Faculty Discovery and Adoption (IITG,
 #### i. Work Accepted
 
 #### ii. Work Submitted
-<p>Colantonio-Yurko, K. C., Kalenda, P. J., Olmstead, K., <strong>Rath, L. T.</strong>, Wright, A. M. &quot;I Never Knew a Librarian Did That!: Exploring How Faculty and Librarian Relationships Support Meaningful Collaboration.&quot; <em>Journal for New Librarianship</em>.</p>
 
-<p>Olmstead, K. (Co-Principal), <strong>Rath, L. T.</strong> (Co-Principal), Zhang, J. (Co-Investigator), Haibach, P. (Co-Investigator), Pearlman, A. (Co-Investigator), Perreault, M. (Co-Investigator), Seo, J. (Co-Investigator), Breitkopf, M. (Co-Investigator), "Understanding Students’ Experiences, Attitudes and Perceptions of Online Learning Environments." Submitted to <em>Online Journal of Distance Learning Administration</em></p>
-
-<p>Gaisser, D. J., Smalls, J., Lawrence, C. F., <strong>Rath, L. T.</strong>, &quot;Global R.E.S.P.E.C.T.,&quot; Sponsored by Sigma, Other, $10,000.00.</p>
 
 #### iii. Work in Progress
 <p><strong>Rath, L. T.</strong>, &quot;Analyzing the ACRL Framework using New Literacy Studies&quot; (May 2018 - Present)</p>
@@ -227,12 +237,6 @@ This paper analyzes the ACRL Framework for Information Literacy in Higher Educat
 
 <p>Kalenda, P. J., <strong>Rath, L. T.</strong>, kaseman, j., &quot;Captioning Virtual Presentations by Students for Students: Supporting a Classmate's Need&quot;. Submitted to the <em>International Journal of Distance Education Technologies</em></p>
 This paper describes how a professor and a librarian worked together to teach students the importance of captioning to meet the needs of a student who identifies as part of the deaf/hard of hearing community (and is third author).
-
-<p><strong>Rath, L.T.</strong>, "An Analysis of Custom Holdings Groups, Paths, and Groups Maintenance" (Writing Results). (April 2019 - Present).</p>
-This study examines the frequency to which interlibrary loan practicioners administer certain features of the ILLiad or WorldShare ILL software programs.
-
-<p>Gaisser, D. J., Smalls, J., Lawrence, C. F., <strong>Rath, L. T.</strong>, "Global R.E.S.P.E.C.T. Pilot 1" (On-Going). (January 2019 - Present).</p>
-The Purpose of this pilot study is to explore the effects of cinema education as a global teaching strategy to alleviate incivility in the nursing profession.
 
 
 ### VI. Internal Grants, Publications and Presentations
