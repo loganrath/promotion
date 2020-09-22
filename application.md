@@ -154,7 +154,14 @@ SUNY Open Educational Resources: Improving Faculty Discovery and Adoption (IITG,
 
 
 ### IV. Non peer-reviewed or adjudicated scholarly and creative products.
+<div markdown="1">
+<p>Kalenda, P., Rath, L., & Glor, H. (2020). Breaking the mold: Using 3D printers to support take-home science activities. <em>Teacher Librarian 47</em>(5), 29-36.</p>
 
+* [Research Guides](http://library.brockport.edu/prf.php?account_id=456){:target="_blank"}
+* [My Brockport Accounts chart](/uploads/artifact_Accounts.pdf){:target="_blank"}
+* [APA Reference List Rubric for Blackboard](http://digitalcommons.brockport.edu/drakepubs/27/){:target="_blank"}
+* See [Supporting Documents](documentation.html)
+</div>
 
 ### V. Other Scholarly &amp; Creative Work
 #### i. Work Accepted
