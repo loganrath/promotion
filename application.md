@@ -78,6 +78,7 @@ As Resource Sharing Librarian (through 9/2014):
 
 ### III. Creativity in planning and problem solving and ability to handle successfully tasks of increasing responsibility and complexity
 * Developed an asynchronous APA course resulting in a local certificate in collaboration with the Academic Success Center and instruction team
+* Connected Student Accessibility Services and Banner to remove barriers for students requesting services
 * Delivered [VoiceThread](http://www.voicethread.com){:target="_blank"} training in consultation with the Instructional Technologist to meet campus needs
 * Redesigned several [online modules](https://brockport.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_1565_1&content_id=_41924_1){:target="_blank"} for courses delivered electronically
 * Created APA-compliant videos in support of transitioning Zotero instruction to the online environment

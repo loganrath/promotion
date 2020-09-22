@@ -31,7 +31,8 @@ title: Supporting Documentation
 * [Ms. Fatima Lundy, student](/uploads/thanks_Lundy.pdf){:target="_blank"} 
 
 ### Thank You Letters for Service
-* Thank you for Middle States help: [Mr. Jeff Smith](/uploads/thanks_SmithMS.pdf){:target="_blank"} [Ms. Frances Dearing](/uploads/thanks_Dearing.pdf){:target="_blank"}
+* [Ms. Nikki Hall, Student Accessibility Services](/uploads/thanks_Hall.pdf){:target="_blank"}
+* Thank you for Middle States help: [Mr. Jeff Smith](/uploads/thanks_SmithMS.pdf){:target="_blank"} and [Ms. Frances Dearing](/uploads/thanks_Dearing.pdf){:target="_blank"}
 * [Dr. Linda Balog, Professional Education Unit, Thank you for CAEP Visit](/uploads/thanks_Balog.pdf){:target="_blank"}
 
 ### Honors and Awards
