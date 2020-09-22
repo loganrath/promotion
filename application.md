@@ -54,6 +54,7 @@ As Resource Sharing Librarian (until 9/2014):
 
 ### II. Supervisory and administrative ability
 * Facilitated the Instruction Team and creation of our new [Information Literacy Program](https://library.brockport.edu/infolit){:target='_blank'}
+* Scheduled reference desk summer and fall 2020
 * Maintained several library systems ([Springshare products](http://library.brockport.edu){:target="_blank"}, venue management in [EMS](http://emsweb.brockport.edu/VirtualEMS/){:target="_blank"}, & [Library website](https://brockport.edu/library){:target="_blank"}
 * Oversaw a redesign for integration with Blackboard through the [LibApps LTI tool](https://library.brockport.edu/faculty-support/blackboard){:target="_blank"}
 * Administered [Open SUNY Information Literacy Portal](https://digitalcommons.brockport.edu/opensuny){:target="_blank"}
@@ -226,7 +227,7 @@ SUNY Open Educational Resources: Improving Faculty Discovery and Adoption (IITG,
 
 * [Research Guides](http://library.brockport.edu/prf.php?account_id=456){:target="_blank"}
 * [My Brockport Accounts chart](/uploads/artifact_Accounts.pdf){:target="_blank"}
-* [APA Reference List Rubric for Blackboard](http://digitalcommons.brockport.edu/drakepubs/27/){:target="_blank"}
+* [APA List Rubric for Blackboard](http://digitalcommons.brockport.edu/drakepubs/27/){:target="_blank"}
 * See [Supporting Documents](documentation.html)
 </div>
 
