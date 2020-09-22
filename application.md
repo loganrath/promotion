@@ -210,14 +210,12 @@ SUNY Open Educational Resources: Improving Faculty Discovery and Adoption (IITG,
 <p>Toth, G. M. (Presenter &amp; Author), Kegler, J. L. (Presenter &amp; Author), <strong>Rath, L. T.</strong> (Presenter &amp; Author), Center for Excellence in Learning and Teaching (CELT) Brown Bag Discussion, ""Google for Faculty"," CELT, College at Brockport, Brockport, NY. (February 15, 2013).</p>
 
 ### IV. Non peer-reviewed or adjudicated scholarly and creative products.
-<div markdown="1">
-<p>Kalenda, P., Rath, L., & Glor, H. (2020). Breaking the mold: Using 3D printers to support take-home science activities. <em>Teacher Librarian 47</em>(5), 29-36.</p>
+<p>Kalenda, P., Rath, L., &amp; Glor, H. (2020). Breaking the mold: Using 3D printers to support take-home science activities. <em>Teacher Librarian 47</em>(5), 29-36.</p>
 
 * [Research Guides](http://library.brockport.edu/prf.php?account_id=456){:target="_blank"}
 * [My Brockport Accounts chart](/uploads/artifact_Accounts.pdf){:target="_blank"}
 * [APA List Rubric for Blackboard](http://digitalcommons.brockport.edu/drakepubs/27/){:target="_blank"}
 * See [Supporting Documents](documentation.html)
-</div>
 
 ### V. Other Scholarly &amp; Creative Work
 #### i. Work Accepted
