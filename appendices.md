@@ -9,4 +9,4 @@ Appendix B: [Nomination for Chancellor's Award for Librarianship, 2016](/uploads
 
 Appendix C: [Admissions letter for Online PhD in Curriculum, Instruction & the Science of Learning](/uploads/artifact_UB.pdf){:target="_blank"}
 
-Appendix D: [Transcript from University at Buffalo](/uploads/appendix_transcript.pdf){:target="_blank"}
+Appendix D: [Transcript from University at Buffalo](/uploads/appendix_ubtranscript.pdf){:target="_blank"}
