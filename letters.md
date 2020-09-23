@@ -3,9 +3,18 @@ layout: portfolio
 title: Letters of Support
 ---
 
+
+### Colleague Letters
+[Ms. Linda Hacker](/uploads/letter_Hacker.pdf)
+
+[Ms. Dana Laird](/uploads/letter_Laird.pdf)
+
+[Dr. Mary Jo Orzech](/uploads/letter_Orzech.pdf)
+
+[Ms. Kristen Wallis](/uploads/letter_Wallis.pdf)
+
+
 ### Faculty Letters
-
-
 [Dr. Kathleen Olmstead, Education & Human Development](/uploads/letter_Olmstead.pdf)
 
 [Dr. Kate Colantonio-Yurko, Education & Human Development](/uploads/letter_Yurko.pdf){:target="_blank"}
@@ -23,16 +32,6 @@ title: Letters of Support
 [Dr. Sue Robb, Associate Dean for Education, Health, & Human Services](/uploads/letter_Robb.pdf){:target="_blank"}
 
 [Dr. Ingrid McGuffog, Department of Criminal Justice](/uploads/letter_McGuffog.pdf){:target="_blank"}
-
-
-### Colleague Letters
-[Ms. Linda Hacker](/uploads/letter_Hacker.pdf)
-
-[Ms. Dana Laird](/uploads/letter_Laird.pdf)
-
-[Dr. Mary Jo Orzech](/uploads/letter_Orzech.pdf)
-
-[Ms. Kristen Wallis](/uploads/letter_Wallis.pdf)
 
 
 ### Student Letters
