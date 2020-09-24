@@ -5,6 +5,8 @@ body {
   font-family: "PT Serif", Garamond, Georgia, "Times New Roman", Times, serif; font-size:14pt;
 }
 
+div#content {margin-left: auto; margin-right: auto; background-color: white; width: 80%;}
+
 div#header {background-color: #006024; color: white;}
 
 #namesake {
@@ -23,6 +25,10 @@ h2 {
 
 h3 {background-color: #ffc726;}
 
+div#page-context {
+ margin: 0 1em;
+ padding-bottom: 0.5em;
+}
 
 li {margin-bottom: 0.5em;}
 
