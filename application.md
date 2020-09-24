@@ -229,7 +229,7 @@ SUNY Open Educational Resources: Improving Faculty Discovery and Adoption (IITG,
 
 ### V. Other Scholarly &amp; Creative Work
 #### i. Work Accepted
-<p>Pizzo, J., &amp; <strong>Rath, L. T.</strong>, &quot;Empowering Students to Engage in Global Children’s and Young Adult Literature through Multimodal Practices Using Instructional Technology&quot; In S. Trioiani, K. Colantonio-Yurko, &amp; K. Olmstead (Eds.) <em>Global and Young Adult Literature</em>. Routledge.
+<p>Pizzo, J., &amp; <strong>Rath, L. T.</strong>, &quot;Empowering Students to Engage in Global Children’s and Young Adult Literature through Multimodal Practices Using Instructional Technology&quot; In S. Trioiani, K. Colantonio-Yurko, &amp; K. Olmstead (Eds.) <em>Global and Young Adult Literature</em>. Routledge.</p>
 
 #### ii. Work Submitted
 
