@@ -2,7 +2,7 @@
 
 body {
   margin:0px; background-color:#515151; 
-  font-family: Garamond, Georgia, "Times New Roman", Times, serif; font-size:10pt;
+  font-family: "Times New Roman", Times, Georgia, serif; font-size:10pt;
 }
 
 div#content {margin-left: auto; margin-right: auto; background-color: white; width: 100%%;}
@@ -16,7 +16,7 @@ div#page-context {
 }
 
 #namesake {
-	font-family: 'Caveat Brush';
+	font-family: Georgia, sans-serif;
 	font-size: 36px;
 	padding: 0 0 0.25em 1em;
 	margin: 0;
