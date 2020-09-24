@@ -255,10 +255,10 @@ COLLEGE, COMMUNITY, AND PROFESSIONAL SERVICE
 Committee Member, Drake Welcome Wagon (2017 - 2017)
 * Convened the first meeting to make Drake a welcoming space for all
 
-Committee Chair, APT (2015-2016)
+APT, Chair (2015-2016), Member (2020-2021)
 * Rewrote bylaws
 
-Library Webmaster(2013 - 2019)
+Library Webmaster (2013 - 2019)
 * Design and coordinate updates to the library Web site
 
 Discovery Task Force to recommend Summon for (2013)
