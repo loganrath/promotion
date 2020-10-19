@@ -5,8 +5,6 @@ title: Letters of Support
 
 
 ### Colleague Letters
-[Ms. Linda Hacker](/uploads/letter_Hacker.pdf)
-
 [Ms. Dana Laird](/uploads/letter_Laird.pdf)
 
 [Dr. Mary Jo Orzech](/uploads/letter_Orzech.pdf)
