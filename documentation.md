@@ -28,7 +28,7 @@ title: Supporting Documentation
 * [Dr. Jason Dauenhauer, Social Work](/uploads/thanks_Dauenhauer.pdf){:target="_blank"}
 * [Dr. John Kane, SUNY Oswego](/uploads/thanks_Kane.pdf){:target="_blank"}
 * [Ms. Monique Rew, Residential Life](/uploads/thanks_Rew.pdf){:target="_blank"}
-* [Ms. Fatima Lundy, student](/uploads/thanks_Lundy.pdf){:target="_blank"} 
+* [Ms. Fatima Lundy, student](/uploads/thanks_Lundy.pdf){:target="_blank"}
 
 ### Thank You Letters for Service
 * [Ms. Nikki Hall, Student Accessibility Services](/uploads/thanks_Hall.pdf){:target="_blank"}

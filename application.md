@@ -55,6 +55,7 @@ As Resource Sharing Librarian (until 9/2014):
 ### II. Supervisory and administrative ability
 * Facilitated the Instruction Team and creation of our new [Information Literacy Program](https://library.brockport.edu/infolit){:target='_blank'}
 * Scheduled reference desk summer and fall 2020
+* Successfully nominated Ms. Tammera Roberts for the Chancellor’s Award in Classified Service.
 * Maintained several library systems ([Springshare products](http://library.brockport.edu){:target="_blank"}, venue management in [EMS](http://emsweb.brockport.edu/VirtualEMS/){:target="_blank"}, & [Library website](https://brockport.edu/library){:target="_blank"}
 * Oversaw a redesign for integration with Blackboard through the [LibApps LTI tool](https://library.brockport.edu/faculty-support/blackboard){:target="_blank"}
 * Administered [Open SUNY Information Literacy Portal](https://digitalcommons.brockport.edu/opensuny){:target="_blank"}
@@ -79,7 +80,7 @@ As Resource Sharing Librarian (through 9/2014):
 
 ### III. Creativity in planning and problem solving and ability to handle successfully tasks of increasing responsibility and complexity
 * Developed an asynchronous APA course resulting in a local certificate in collaboration with the Academic Success Center and instruction team
-* Transitioned several library instruction sessions to online during the COVID-19 pandemic 
+* Transitioned several library instruction sessions to online during the COVID-19 pandemic
 * Connected Student Accessibility Services and Banner to remove barriers for students requesting services
 * Delivered [VoiceThread](http://www.voicethread.com){:target="_blank"} training in consultation with the Instructional Technologist to meet campus needs
 * Redesigned several [online modules](https://brockport.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_1565_1&content_id=_41924_1){:target="_blank"} for courses delivered electronically
@@ -140,7 +141,7 @@ SCHOLARSHIP, RESEARCH AND CREATIVE ACCOMPLISHMENTS
 <p><strong>Rath, L.</strong> &amp; Cimbricz, S. (2015). Collaborating around critical multiliteracies. <em>Behavioral &amp; Social Sciences Librarian 34</em>(2), 47-54 doi:<a href="http://dx.doi.org/10.1080/01639269.2015.1042816" target="_blank" rel="noopener">10.1080/01639269.2015.1042816</a></p>
 <p><strong>Rath, L. T.</strong> (2015). <em>360Core Addon</em>. Virginia Beach, VA: Atlas Systems. <a href="https://prometheus.atlas-sys.com/display/ILLiadAddons/360Core+Search" target="_blank">https://prometheus.atlas-sys.com/display/ILLiadAddons/360Core+Search</a></p>
 <p><strong>Rath, L.</strong> (2013). Development of a knowledge base for incorporating technology in to courses. <em>Journal of Educational Technology Systems 42</em>(2). doi:<a href="http://dx.doi.org/10.2190/ET.42.2.g" target="_blank" rel="noopener">10.2190/ET.42.2.g</a></p>
- 
+
 ### II. Externally-funded projects or grants
 Postsecondary Information Literacy Readiness Assessment using ILAAP (IITG, $15,500)
  > This project will adapt the Information Literacy Assessment & Advocacy Project (ILAAP) diagnostic tool for use throughout the SUNY system.  This online assessment will provide student admissions and advising officers with a clearer picture of a student’s information literacy competencies (ILC) as they relate to the Association for College and Research Libraries (ACRL) Framework for Information Literacy for Higher Education, the SUNY-GER, and campus requirements.  The tool will provide the student with an ILC report that includes a series of “next steps for remediation” when they’ve tested deficient in specific competencies.  The project campuses, University at Buffalo, Erie Community College, and The College at Brockport, will work with creators of ILAAP to customize the questionnaire based on institutional needs.  The revised questionnaire will be administered during the fall 2017 semester, revised, re-administered in the spring 2018, and finalized for rollout across SUNY during the summer 2018.  
@@ -306,12 +307,12 @@ University Senate Service, University Faculty Senate. (July 1, 2013 - July 1, 20
 College Senate Service, Bylaws Committee. (January 2013 - April 2013; January 2015 - April 2015)
 * Propose bylaw amendments to the College Senate.
 
-Committee Member, Developing a SUNY-wide Transliteracy Learning Collaborative to Promote Information and Technology 
+Committee Member, Developing a SUNY-wide Transliteracy Learning Collaborative to Promote Information and Technology
 * Components for the 21st Century. (January 14, 2013 - March 15, 2013)
 * This committee generated metaliteracy objectives.
 
 ### III. Public and community service (must be related to area of professional expertise)
- 
+
 ### IV. Service to the discipline or profession (work in professional organizations. etc.)
 Task Force Chair, LSP Training Working Group. (April 2018 - July 2019).
 * Create training and instructional design documentation for those who will be training all of SUNY on Alma and Primo.
@@ -328,7 +329,7 @@ Workshop Organizer, SUNYLA Annual Conference. (2013 - Present)
 
 Mentor, IDS Project. (April 2011 - August 2016; December 2018 - Present)
 * Worked with several IDS
- 
+
 Delegate, SUNYLA. (March 2014 - June 2016)
 * Coordinate information exchange between SUNYLA Council and Drake Librarians
 
@@ -351,7 +352,7 @@ FACULTY CONTRIBUTIONS TO COLLEGE DIVERSITY EFFORT
 * Posted the Better Community Statement around the first floor of the Library.
 * Authored and updated the [Women and Gender Studies Libguide](http://library.brockport.edu/gender){:target="_blank"}.
 * Supported our [Summer LEAP](https://www.brockport.edu/support/summer_leap/) program.
-* Trained as a SafeZones trainer. 
+* Trained as a SafeZones trainer.
 * Supported the Office of Diversity in answering questions about the library's collection including increasing the number of books involving transgender issues.
 * Work with the McNair scholars over the summer to provide library instruction and research support.
 * Work with the Lifelong Learners group (participants are 60+ years of age) to provide orientation information.

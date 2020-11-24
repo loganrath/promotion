@@ -5,7 +5,7 @@ title: Letters of Support
 
 
 ### Colleague Letters
-[Ms. Dana Laird](/uploads/letter_Laird.pdf)
+[Ms. Gloria Gustke](/uploads/letter_Gustke.pdf)
 
 [Dr. Mary Jo Orzech](/uploads/letter_Orzech.pdf)
 
