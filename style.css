@@ -55,7 +55,9 @@ a.button:link, a.button:visited {display: block; margin: 0.5em 0; padding: 0.5em
 a.button:hover {background-color: #41B6E6;}
 
 /* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {}
+@media only screen and (max-width: 600px) {
+  div#content {width: 100%;}
+}
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
