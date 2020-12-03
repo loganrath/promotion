@@ -51,7 +51,7 @@ ul.nav li a:hover {
       color: #ffc726;
   }
 
-a.button:link, a.button:visited {0.25em 1em; background-color: #01426A; color: white;}
+a.button:link, a.button:visited {display:block; margin: 0.5em 0; background-color: #01426A; color: white;}
 a.button:hover {background-color: #41B6E6;}
 
 /* Extra small devices (phones, 600px and down) */
@@ -73,7 +73,7 @@ a.button:hover {background-color: #41B6E6;}
 @media only screen and (min-width: 768px) {
   div#content {width: 80%;}
 
-  a.button {display: inline;}
+  a.button {display: inline; margin-left: 5em; margin-right: 5em;}
   }
 
 /* Large devices (laptops/desktops, 992px and up) */
