@@ -72,15 +72,7 @@ a.button:hover {background-color: #41B6E6;}
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
   div#content {width: 80%;}
-
-a.button:link, a.button:visited {
-    padding: 0.5em 1em !important;
-    float: left;
-    margin: 0 auto !important;
-    width: 20%;
-    text-align: center;
-    display: block !important;
-  }
+  a.button:link, a.button:visited {float: left; margin: auto; width: 20%;}
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {}
