@@ -56,15 +56,16 @@ ul.nav li a:hover {
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {...}
+div#content {width: 90%;}
 
+  ul.nav li {
+      float: left;
+      margin-bottom: 0;
+      border-bottom: 2px solid white;
+  }
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
   div#content {width: 80%;}
-
-    ul.nav li {
-        float: left;
-        margin-bottom: 0;
-    }
 
 
   }
