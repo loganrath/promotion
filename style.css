@@ -61,7 +61,7 @@ div#content {width: 90%;}
   ul.nav li {
       float: left;
       margin-bottom: 0;
-      border-bottom: 2px solid white;
+      border-bottom: none;
   }
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
