@@ -74,12 +74,17 @@ a.button:hover {background-color: #41B6E6;}
   div#content {width: 80%;}
   a.button:link, a.button:visited {
     display: inline;
-    margin: auto 2em;
+    margin: auto 0.5em;
     padding: 0.5em 1em;
   }
+}
 
 /* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) {}
+@media only screen and (min-width: 992px) {
+  a.button:link, a.button:visited {margin: auto 1em;}
+}
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px) {}
+@media only screen and (min-width: 1200px) {
+  a.button:link, a.button:visited {margin: auto 2em;}
+}
