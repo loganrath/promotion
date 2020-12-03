@@ -71,7 +71,7 @@ a.button:hover {background-color: #41B6E6;}
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
-  div#content {width: 90%;}
+  div#content {width: 95%;}
 
     ul.nav li {
       display: inline-block;
@@ -83,7 +83,7 @@ a.button:hover {background-color: #41B6E6;}
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
-  div#content {width: 80%;}
+  div#content {width: 90%;}
   a.button:link, a.button:visited {
     display: inline;
     margin: auto 0.5em;
@@ -93,6 +93,7 @@ a.button:hover {background-color: #41B6E6;}
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
+  div#content {width: 80%;}
   a.button:link, a.button:visited {margin: auto 1em;}
 }
 
