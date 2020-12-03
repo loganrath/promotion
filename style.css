@@ -9,11 +9,11 @@ div#content {margin-left: auto; margin-right: auto; background-color: white; wid
 div#bptlogo {
     text-align: center;
     background-image: url(/brockport_logo.jpg);
-    height: 100px;
+    height: 120px;
     background-repeat: no-repeat;
-    background-position: top center;
+    background-position: center;
   }
-  
+
 div#header {background-color: #006024; color: white;}
 
 #namesake {
@@ -65,6 +65,7 @@ a.button:hover {background-color: #41B6E6;}
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
   div#content {width: 100%;}
+  div#bptlogo {background-size: contain;}
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
