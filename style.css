@@ -51,8 +51,7 @@ ul.nav li a:hover {
       color: #ffc726;
   }
 
-a.button:link, a.button:visited {display: block;
-    margin: 0.5em 0; padding: 0.5em 0; background-color: #01426A; color: white;}
+a.button:link, a.button:visited {display: block; margin: 0.5em 0; padding: 0.5em 0; background-color: #01426A; color: white;}
 a.button:hover {background-color: #41B6E6;}
 
 /* Extra small devices (phones, 600px and down) */
@@ -63,9 +62,9 @@ a.button:hover {background-color: #41B6E6;}
   div#content {width: 90%;}
 
     ul.nav li {
-        float: left;
-        margin-bottom: 0;
-        border-bottom: none;
+      display: inline-block;
+      margin: auto;
+      border-bottom: none;
     }
 
 }
