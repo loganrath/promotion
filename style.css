@@ -4,7 +4,7 @@ body {
   font-family: "PT Serif", Garamond, Georgia, "Times New Roman", Times, serif; font-size:14pt;
 }
 
-div#content {margin-left: auto; margin-right: auto; background-color: white; width: 80%;}
+div#content {margin-left: auto; margin-right: auto; background-color: white; width: 95%;}
 
 div#header {background-color: #006024; color: white;}
 
@@ -32,7 +32,12 @@ div#page-context {
 li {margin-bottom: 0.5em;}
 
 ul.nav {list-style-type: none; margin:0; padding: 0; overflow:hidden; background-color: #006024;}
-u.nav li {display:block; margin: 0 auto;}
+u.nav li {
+    display: block;
+    margin-bottom: 0;
+    text-align: center;
+    border-bottom: 2px solid white;
+  }
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {...}
@@ -42,7 +47,7 @@ u.nav li {display:block; margin: 0 auto;}
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
-  div#content {margin-left: auto; margin-right: auto; background-color: white; width: 95%;}
+  div#content {width: 80%;}
 
     ul.nav li {
         float: left;
