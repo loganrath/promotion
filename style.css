@@ -65,7 +65,7 @@ a.button:hover {background-color: #41B6E6;}
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
   div#content {width: 100%;}
-  div#bptlogo {background-size: contain;}
+  div#bptlogo {background-size: 80%;}
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
